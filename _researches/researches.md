@@ -10,6 +10,7 @@ Research Interests
 - Multi-view Learning
 - Cross-modal Retrieval
 - Learning to Hash
+- Image Set Classification
 
 Awards and Honors
 ======
