@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-**Yuan Sun (孙元)** is a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng. His current interests mainly focus on multi-view learning, cross-modal retrieval, Learning to hash, and Image Set Classification.
+**Yuan Sun (孙元)** is a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). His current interests mainly focus on multi-view learning, cross-modal retrieval, Learning to hash, and Image Set Classification.
 
 News:
 ======
