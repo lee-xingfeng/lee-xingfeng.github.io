@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-# title                    : "Yuan Sun"
+title                    : "Yuan Sun"
 title_separator          : "-"
 name                     : &name "Yuan Sun Homepage"
 description              : &description "personal description"
