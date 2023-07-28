@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
-- **Yuan Sun**, Zhenwen Ren, Peng Hu, Dezhong Peng, Xu Wang, [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165), in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3272169.
-- **Yuan Sun**, Xu Wang, Dezhong Peng, Zhenwen Ren, Xiaobo Shen, [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/abstract/document/10061433),in IEEE Transactions on Image Processing, vol. 32, pp. 1732-1744, 2023, doi: 10.1109/TIP.2023.3251025.
+- **Yuan Sun**, Zhenwen Ren, Peng Hu, Dezhong Peng, Xu Wang, [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165), in **IEEE Transactions on Multimedia (TMM)**.
+- **Yuan Sun**, Xu Wang, Dezhong Peng, Zhenwen Ren, Xiaobo Shen, [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/abstract/document/10061433),in **IEEE Transactions on Image Processing (TIP)**.
 
 # 2022
 - **Yuan Sun**, Dezhong, Haixiao Huang, Zhenwen Ren, [Feature and semantic views consensus hashing for image set classification](https://dl.acm.org/doi/abs/10.1145/3503161.3547876), **ACMMM 2022**.
