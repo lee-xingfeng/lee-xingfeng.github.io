@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuan Sun"
 title_separator          : "-"
-name                     : &name "Yuan Sun (孙元)"
+name                     : &name "Yuan Sun Homepage"
 description              : &description "personal description"
 url                      : https://sunyuan-cs.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
