@@ -1,45 +1,18 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
-2020
+# 2023
+- **Yuan Sun**, Zhenwen Ren, Peng Hu, Dezhong Peng, Xu Wang, [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165), in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3272169.
+- **Yuan Sun**, Xu Wang, Dezhong Peng, Zhenwen Ren, Xiaobo Shen, [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/abstract/document/10061433),in IEEE Transactions on Image Processing, vol. 32, pp. 1732-1744, 2023, doi: 10.1109/TIP.2023.3251025.
 
-- Xu Wang\*, **Peng Hu**\*, Liangli Zhen, Dezhong Peng, [DRSL: Deep Relational Similarity Learning for Cross-modal Retrieval](https://doi.org/10.1016/j.ins.2020.08.009)[J]. Information Sciences, 2020. [Early Access](https://doi.org/10.1016/j.ins.2020.08.009). (* denotes equal contribution)
+# 2022
+- **Yuan Sun**, Dezhong, Haixiao Huang, Zhenwen Ren, [Feature and semantic views consensus hashing for image set classification](https://dl.acm.org/doi/abs/10.1145/3503161.3547876), **ACMMM 2022**.
+- Jiali You, Zhenwen Ren, Quansen Sun, **Yuan Sun**, Xingfeng Li, [Approximate shifted laplacian reconstruction for multiple kernel clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548307), **ACMMM 2022**
 
-
-- Xu Wang, **Peng Hu**, Pei Liu, Dezhong Peng, [Deep Semisupervised Class- and Correlation-Collapsed Cross-View Learning](https://doi.org/10.1109/TCYB.2020.2984489)[J]. IEEE Transactions on Cybernetics (TCYB), 2020. [Early Access](https://doi.org/10.1109/TCYB.2020.2984489).
-
-- **Peng Hu**, Hongyuan Zhu, Xi Peng, Jie Lin, [Semi-supervised Multi-modal Learning with Balanced Spectral Decomposition](https://www.aaai.org/ojs/index.php/AAAI/article/view/5339/5195), Thirty-Fourth AAAI Conference on Artificial Intelligence, Feb 7-12, 2020, New York, NY. (Oral).
-
-2019
-- **Peng Hu**\*, Xu Wang\*, Liangli Zhen, Dezhong Peng, [Separated Variational Hashing Networks for Cross-Modal Retrieval](https://dl.acm.org/citation.cfm?doid=3343031.3351078) [C]. 27th ACM Multimedia Conference (ACM MM), pp. 1721-1729, Nice, France, Oct. 21-25, 2019. (* denotes equal contribution, Full paper)
-
-- **Peng Hu**, Dezhong Peng, Yongsheng Sang, Yong Xiang, [Multi-view linear discriminant analysis network](https://ieeexplore.ieee.org/document/8704986)[J]. IEEE Transaction on Image Processing (TIP), 2019, 28(11): 5352-5365. \[[code](https://github.com/penghu-cs/MvLDAN/)\]
-
-- **Peng Hu**\*, Liangli Zhen\*, Dezhong Peng, Pei Liu, [Scalable deep multimodal learning for cross-modal retrieval](https://dl.acm.org/citation.cfm?doid=3331184.3331213)[C]. International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2019: 635-644. (* denotes equal contribution, Full paper for oral presentation) \[[code](https://github.com/penghu-cs/SDML)\]
-
-- **Peng Hu**, Dezhong Peng, Xu Wang, Yong Xiang, [Multimodal adversarial network for cross-modal retrieval](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302230)[J], Knowledge-Based Systems, 2019, 180: 38-50. \[[code](https://github.com/penghu-cs/MAN)\]
-
-- Liangli Zhen\*, **Peng Hu**\*, Xu Wang, Dezhong Peng, [Deep supervised cross-modal retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)[C], IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019: 10394-10403. (* denotes equal contribution) [[code](https://github.com/penghu-cs/DSCMR)]
-
-- Xu Wang, Dezhong Peng, **Peng Hu**, Yongsheng Sang, [Adversarial correlated autoencoder for unsupervised multi-view representation learning](https://www.sciencedirect.com/science/article/pii/S0950705119300176)[J]. Knowledge-Based Systems, 2019, 168: 109-120.
-
-2018
-- **Peng Hu**, Dezhong Peng, Jixiang Guo, Liangli Zhen, [Local feature based multi-view discriminant analysis](https://www.sciencedirect.com/science/article/pii/S0950705118300595)[J]. Knowledge-Based Systems, 2018, 149: 34-46.
-
-2016
-- **Peng Hu**, Dezhong Peng, Yi Zhang, Yong Xiang, [Robust time-spread echo watermarking using characteristics of host signals](https://ieeexplore.ieee.org/abstract/document/7374810)[J]. Electronics Letters, 2016, 52(1): 5-6.
-
-
-
-# {% if author.googlescholar %}
-#   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=gvESkwYAAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
-# {% endif %}
-
-# {% include base_path %}
-
-# {% for post in site.publications reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}
+# Before 2021
+- **Yuan Sun**, Zhenwen Ren, Chao Yang, Quansen Sun, Liwan Chen, Yanglong Ou, [Face image set classification with self-weighted latent sparse discriminative learning](https://link.springer.com/article/10.1007/s00521-020-05479-1), **Neural Computing and Applications**.
+- Chao Yang, Zhenwen Ren, Quansen Sun, Mingna Wu, Maowei Yin, **Yuan Sun**, [Joint correntropy metric weighting and block diagonal regularizer for robust multiple kernel subspace clustering](), **Information Sciences**.
+- **Yuan Sun**, Zhenwen Ren, Chao Yang, Haoyun Lei, [Latent sparse discriminative learning for face image set classification](https://link.springer.com/chapter/10.1007/978-981-15-7670-6_13), **International Conference on Neural Computing for Advanced Applications**.
