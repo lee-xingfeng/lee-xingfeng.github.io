@@ -13,8 +13,8 @@ author_profile: true
   
 News:
 ======
-- \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! <text color="red">New...</text>
-- \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! Congrats to Xingfeng. <text color="red">New...</text>
+- \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! <font color="#00dd00">New...</font><br />    
+- \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! Congrats to Xingfeng. <font color="#00dd00">New...</font><br /> 
 - \[**Publications**\]: Apr. 26, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 
 - \[**Publications**\]: Feb. 14, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 
 - \[**Publications**\]: Dec. 24, 2022, two papers was accepted by ACM Multimedia (ACM MM 2022)! Congrats to Jiali and coauthors.
