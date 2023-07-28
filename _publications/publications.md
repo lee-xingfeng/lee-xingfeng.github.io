@@ -10,7 +10,7 @@ author_profile: true
 
 # 2022
 - **Yuan Sun**, Dezhong, Haixiao Huang, Zhenwen Ren, [Feature and semantic views consensus hashing for image set classification](https://dl.acm.org/doi/abs/10.1145/3503161.3547876), **ACMMM 2022**.
-- Jiali You, Zhenwen Ren, Quansen Sun, **Yuan Sun**, Xingfeng Li, [Approximate shifted laplacian reconstruction for multiple kernel clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548307), **ACMMM 2022**
+- Jiali You, Zhenwen Ren, Quansen Sun, **Yuan Sun**, Xingfeng Li, [Approximate shifted laplacian reconstruction for multiple kernel clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548307), **ACMMM 2022**.
 
 # Before 2021
 - **Yuan Sun**, Zhenwen Ren, Chao Yang, Quansen Sun, Liwan Chen, Yanglong Ou, [Face image set classification with self-weighted latent sparse discriminative learning](https://link.springer.com/article/10.1007/s00521-020-05479-1), **Neural Computing and Applications**.
