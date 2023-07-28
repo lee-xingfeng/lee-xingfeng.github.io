@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Peng Hu"
+title                    : "Yuan Sun"
 title_separator          : "-"
-name                     : &name "Peng Hu (胡鹏)"
+name                     : &name "Yuan Sun (孙元)"
 description              : &description "personal description"
-url                      : https://penghu-cs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sunyuan-cs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "penghu-cs/penghu-cs.github.io"
+repository               : "sunyuan-cs/sunyuan-cs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peng Hu (胡鹏)"
-  avatar           : "profile.png"
-  bio              : "penghu.ml[AT]gmail[DOT]com"
+  name             : "Yuan Sun (孙元)"
+  avatar           : "sunyuan.png"
+  bio              : "sunyuan_work[AT]163[DOT]com"
 #  location         : "Location"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=gvESkwYAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "penghu-cs"
+  github           : "sunyuan-cs"
   google_plus      :
   keybase          :
   instagram        :
