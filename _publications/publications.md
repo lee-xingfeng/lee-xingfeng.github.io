@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
+- [9] **Yuan Sun**, Dezhong Peng, Jian Dai, Zhenwen Ren, Stepwise Refinement Short Hashing for Image Retrieval, **ACMMM 2023**.
 - [8] Xingfeng Li, Yinghui Sun, Quansen Sun, Zhenwen Ren, **Yuan Sun**, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S1566253523002579?utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_medium=email&utm_acid=192784560&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&CMX_ID=&utm_in=DM394089&utm_source=AC), **Information Fusion**, doi: 10.1016/j.inffus.2023.101941.
 - [7] **Yuan Sun**, Zhenwen Ren, Peng Hu, Dezhong Peng, Xu Wang, [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/abstract/document/10119165), **IEEE Transactions on Multimedia (TMM)**, doi: 10.1109/TMM.2023.3272169.
 - [6] **Yuan Sun**, Xu Wang, Dezhong Peng, Zhenwen Ren, Xiaobo Shen, [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/abstract/document/10061433), **IEEE Transactions on Image Processing (TIP)**, doi: 10.1109/TIP.2023.3251025.
