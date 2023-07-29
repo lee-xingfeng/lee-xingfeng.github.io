@@ -11,7 +11,7 @@ author_profile: true
 - **Mult-view Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
 - **Feature Extraction and Feature Selection**: it extracts or selects the important features of high-dimensional data for addressing the curse of dimensionality.
   
-Recent Updates:
+News:
 ======
 - \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! <font color="#00dd00">New...</font><br />
 - \[**Service**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2023. <font color="#00dd00">New...</font><br />
