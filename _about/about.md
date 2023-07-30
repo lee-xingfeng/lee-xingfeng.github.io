@@ -14,7 +14,7 @@ author_profile: true
 News:
 ======
 - \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! <font color="#00dd00">New...</font><br />
-- \[**Service**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2023. <font color="#00dd00">New...</font><br />
+- \[**Service**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2024. <font color="#00dd00">New...</font><br />
 - \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! Congrats to Xingfeng. <font color="#00dd00">New...</font><br /> 
 - \[**Publications**\]: Apr. 26, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 
 - \[**Publications**\]: Feb. 14, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 
