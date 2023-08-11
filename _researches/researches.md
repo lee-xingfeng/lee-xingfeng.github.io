@@ -14,20 +14,15 @@ Research Interests
 
 Awards and Honors
 ======
-- First-class Scholarship of Nanjing University of Science and technology for PhD. students, 2023.
-- Second-class Scholarship of Sichuan University for PhD. students, 2021.09-2023.08.
-- Innovation Scholarship of Sichuan University for PhD. students, 2023.03.
+- First-class Scholarship of Nanjing University of Science and Technology for Ph.D. students, 2022.
+- First-class Scholarship of Nanjing University of Science and Technology for Ph.D. students, 2021.
+- Innovation Scholarship of the Nanjing University of Science for Ph.D. students, 2023.03.
 - Excellent Master Graduation Project of SWUST, 2021.06.
-- Best Paper Award Finalist of NCAA 2020.
-- 20+ College Student Competition Awards.
+
 
 Peer-Reviewing
 ======
-- IEEE Transactions on Multimedia (At Round 1).
-- IEEE Transactions on Intelligent Transportation Systems (At Round 2).
-- Pattern Recognition (At Round 2).
-- Expert Systems With Applications (At Round 2).
-- NeurIPS 2023. 
+
 
 Professional Activity
 ======
@@ -35,3 +30,5 @@ Professional Activity
     - ACM MM 2023, PRCV 2023, AAAI 2023.
 - Journal Reviewer:
     - The Visual Computer journal.
+    - The Neurocomputing journal.
+  
