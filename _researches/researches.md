@@ -8,13 +8,13 @@ author_profile: true
 Research Interests
 ======
 - Multi-view Learning
-- Cross-modal Retrieval
-- Learning to Hash
-- Image Set Classification
+
+
+
 
 Awards and Honors
 ======
-- First-class Scholarship of Sichuan University for PhD. students, 2023.09-2025.06.
+- First-class Scholarship of Nanjing University of Science and technology for PhD. students, 2023.
 - Second-class Scholarship of Sichuan University for PhD. students, 2021.09-2023.08.
 - Innovation Scholarship of Sichuan University for PhD. students, 2023.03.
 - Excellent Master Graduation Project of SWUST, 2021.06.
