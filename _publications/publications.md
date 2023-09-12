@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: ""
+permalink: /publications/
+author_profile: true
+---
 # 2023
 - [10] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, Yuansun,  Distribution Consistency based Fast Anchor Imputation for Incomplete Multi-view Clustering, **ACM MM 2023 (CCF-A类)**.
 - [9] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, Yuan Sun, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S1566253523002579), **Information Fusion (中科院一区)**.
