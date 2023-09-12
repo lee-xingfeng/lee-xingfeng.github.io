@@ -11,6 +11,6 @@
 - [4] Jiali You, Zhenwen Ren, Quansen Sun, Yuan Sun, **Xingfeng Li**, [Approximate Shifted Laplacian Reconstruction for Multiple Kernel Clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548307), **ACM MM 2022 (CCF-A类)**.
 
 # Before 2021
-- [3] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, [Robust multi-view graph clustering in latent energy-preserving embedding space](https://www.sciencedirect.com/science/article/pii/S0020025521004837), **Neurocomputing (中科院二区)**.
-- [2] **Xingfeng Li**, Zhenwen Ren, Haoyun Lei, Yuqing Huang, Quansen Sun, [Multiple kernel clustering with pure graph learning scheme](https://https://ieeexplore.ieee.org/document/10012408), **Information Sciences (中科院一区)**.
-- [1] Haoran Li, Zhenwen Ren, M Mukherjee, Yuqing Huang, Quansen Sun, **Xingfeng Li**, L Chen, [Robust energy preserving embedding for multi-view subspace clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548307), **Knowledge-Based Systems (中科院一区)**.
+- [3] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, [Robust multi-view graph clustering in latent energy-preserving embedding space](https://www.sciencedirect.com/science/article/pii/S0925231220316271), **Neurocomputing (中科院二区)**.
+- [2] Zhenwen Ren, **Xingfeng Li**, Mithun Mukherjee, Yuqing Huang, Quansen Sun, Zhen Huang, [Robust multi-view graph clustering in latent energy-preserving embedding space](https://www.sciencedirect.com/science/article/pii/S0020025521004837), **Information Sciences (中科院一区)**.
+- [1] Haoran Li, Zhenwen Ren, M Mukherjee, Yuqing Huang, Quansen Sun, **Xingfeng Li**, L Chen, [Robust energy preserving embedding for multi-view subspace clustering](https://www.sciencedirect.com/science/article/pii/S0950705120306183), **Knowledge-Based Systems (中科院一区)**.
