@@ -17,7 +17,6 @@ Awards and Honors
 - Postgraduate Research & Practice Innovation Program of Jiangsu Province, 2023.06.
 - First-class Scholarship of Nanjing University of Science and Technology for Ph.D. students, 2022.
 - First-class Scholarship of Nanjing University of Science and Technology for Ph.D. students, 2021.
-- Excellent Master Graduation Project of SWUST, 2021.06.
 
 
 Peer-Reviewing
