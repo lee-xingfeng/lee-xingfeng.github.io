@@ -15,6 +15,7 @@ Research Interests
 
 Awards and Honors
 ======
+- National Scholarship (Nanjing University of Science and Technology), 2023.10.
 - Postgraduate Research & Practice Innovation Program of Jiangsu Province, 2023.06.
 - First-class Scholarship of Nanjing University of Science and Technology for Ph.D. students, 2022.
 - First-class Scholarship of Nanjing University of Science and Technology for Ph.D. students, 2021.
@@ -32,4 +33,5 @@ Professional Activity
     - The Engineering Applications of Artificial Intelligence journal (EAAI).
     - The Visual Computer journal.
     - The Neurocomputing journal.
+    - CAAI Transactions on Intelligence Technology.
   
