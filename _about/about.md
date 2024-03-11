@@ -11,7 +11,7 @@ author_profile: true
   
 News:
 ======
-- \[**Publications**\]: Mar. 1, 2024, one paper was accepted by CVPR 2024! Congrats to Linhan and coauthors.
+- \[**Publications**\]: Mar. 1, 2024, one paper was accepted by CVPR 2024! Congrats to Linhan and coauthors. <font color="#00dd00">New...</font><br />
 - \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! <font color="#00dd00">New...</font><br />
 - \[**Service**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2024. <font color="#00dd00">New...</font><br />
 - \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! <font color="#00dd00">New...</font><br /> 
