@@ -31,11 +31,11 @@ Professional Activity
     - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024,
     - ACM MM 2023, PRCV 2023, AAAI 2023.
 - Journal Reviewer:
+    - Transactions on Pattern Analysis and Machine Intelligence.
     - The Engineering Applications of Artificial Intelligence journal (EAAI).
     - The Visual Computer journal.
     - The Neurocomputing journal.
     - CAAI Transactions on Intelligence Technology.
-    - IEEE Transactions on Neural Networks and Learning Systems. 
     - Neural Networks.
     - Information Fusion.
   
