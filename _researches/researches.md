@@ -28,7 +28,7 @@ Peer-Reviewing
 Professional Activity
 ======
 - Program Committee Member:
-    - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024,
+    - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, NIPS 2024
     - ACM MM 2023, PRCV 2023, AAAI 2023.
 - Journal Reviewer:
     - Transactions on Pattern Analysis and Machine Intelligence.
