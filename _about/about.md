@@ -11,6 +11,7 @@ author_profile: true
   
 News:
 ======
+- \[**Service**\]:  Jun. 1, 2024, I have been invited to be a PC member for 2024 (CVPR, IJCAI, ACMMM, ICML, NIPS). <font color="#00dd00">New...
 - \[**Publications**\]: Apr. 18, 2024, one paper was accepted by IJCAI 2024! <font color="#00dd00">New...</font><br />
 - \[**Publications**\]: Mar. 1, 2024, one paper was accepted by CVPR 2024! Congrats to Linhan and coauthors. <font color="#00dd00">New...</font><br />
 - \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! <font color="#00dd00">New...</font><br />
