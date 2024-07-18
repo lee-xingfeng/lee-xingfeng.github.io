@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuan Sun"
+  name             : "Xingfeng Li"
   avatar           : "images/sunyuan.png"
   bio              : 
-  location         : "Chengdu, China"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN"
-  email            : "sunyuan_work@163.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fik_dnAAAAAJ&hl=zh-CN"
+  email            : "lixingfeng@njust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : sunyuan-cs
+  github           : Lee-xingfeng
   google_plus      :
   keybase          :
   instagram        :
