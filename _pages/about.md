@@ -27,15 +27,9 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2024
-- [20] Longan Wang, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, Robust Contrastive Cross-modal Hashing with Noisy Labels, **ACM MM 2024 (CCF-A类)**. 
-- [19] Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, Robust Prototype Completion for Incomplete Multi-view Clustering, **ACM MM 2024 (CCF-A类)**. 
-- [18] **Yuan Sun**, Kaiming Liu, Yongxiang Li, Zhenwen Ren, Jian Dai, Dezhong Peng, Distribution Consistency Guided Hashing for Cross-Modal Retrieval, **ACM MM 2024 (CCF-A类)**. 
-- [17] Yongxiang Li, Yang Qin, **Yuan Sun**, Dezhong Peng, Xi Peng, Peng Hu, RoMo: Robust Unsupervised Multimodal Learning with Noisy Pseudo Labels, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. 
-- [16] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, [Robust Multi-View Clustering with Noisy Correspondence](https://ieeexplore.ieee.org/document/10595464), **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
-- [15] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
-- [14] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval, **IJCAI 2024 (CCF-A类)**. 
-- [13] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, [Relaxed Energy Preserving Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10414409), **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
-- [12] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, [Dual Self-Paced Cross-Modal Hashing](https://ojs.aaai.org/index.php/AAAI/article/view/29441), **AAAI 2024 (CCF-A类)**.
+- [19] Honglin Yuan, Shiyun Lai, **Xingfeng Li**, Jian Dai, Yuan Sun, Zhenwen Ren, Robust Prototype Completion for Incomplete Multi-view Clustering, **ACM MM 2024 (CCF-A类)**. 
+- [14] Xingfeng Li,..., Fast Unpaired Multi-view Clustering, **IJCAI 2024 (CCF-A类)**. 
+
   
 # 2023
 - [11] Yang Qin, **Yuan Sun**, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu, [Cross-modal Active Complementary Learning with Self-refining Correspondence](https://proceedings.neurips.cc/paper_files/paper/2023/file/4e580cdd54fe38ca9a5b8ea6fe99bb44-Paper-Conference.pdf), **NeurIPS 2023 (CCF-A类)**. [Code](https://github.com/QinYang79/CRCL)
