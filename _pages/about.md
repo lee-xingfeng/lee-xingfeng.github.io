@@ -20,7 +20,7 @@ redirect_from:
 - **Mult-view/Multi-kernel Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
 
 # 🔥 News
-- \[**Publications**\]: Jul. 16, 2024, two papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Yinghui, and coauthors! 🎉
+- \[**Publications**\]: Jul. 16, 2024, two papers were accepted by ACM Multimedia (ACM MM 2024)! Congrates to Honglin (Master), Yinghui, and coauthors! 🎉
 
 
 
