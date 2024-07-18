@@ -42,42 +42,26 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- 四川省计算机学会年度优秀学生论文，2024.01.
 - 中国自动化学会科技进步奖二等奖，2023.11.
 - 国家奖学金，2023.09.
-- 四川大学优秀研究生，2023.09.
-- 博士一等学业奖学金，2023.09-2025.06.
-- 博士创新奖学金，2023.03.
-- 校级优秀硕士毕业论文，2021.06.
-- NCAA 2020最佳论文提名奖.
-- 成都市技术能手（成都市人力资源与保障局颁发），2018.12.
-- 20余项学生科技竞赛获奖.
+- 南京理工大学优秀研究生，2023.09.
+- 博士一等学业奖学金，2021.09-2024.06.
+
+
 
 
 # 🙋 Services 
 - Program Committee Member:
     - AAAI 2025.
-    - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, ECCV 2024, PRCV 2024, NeurIPS 2024.
+    - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, NeurIPS 2024.
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
-    - IEEE Transactions on Image Processing.
-    - IEEE Transactions on Knowledge and Data Engineering.
-    - IEEE Transactions on Neural Networks and Learning Systems.
-    - IEEE Transactions on Circuits and Systems for Video Technology.
-    - IEEE Transactions on Big Data.
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence.
     - IEEE Transactions on Computational Social Systems.
-    - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM).
-    - IEEE Signal Processing Letters.
     - Neural Networks.
     - Information Fusion.
-    - Expert Systems With Applications.
     - Neurocomputing.
-    - Neural Computing and Applications.
     - CAAI Transactions on Intelligence Technology.
-    - Data Science and Management.
     - The Visual Computer.
-- Associate Editor:
-    - ICARM 2024
-- Workshop Chair:
-    - CVDL 2024.
+
 
