@@ -20,21 +20,8 @@ redirect_from:
 - **Mult-view/Multi-kernel Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
 
 # 🔥 News
-- \[**Publications**\]: Jul. 16, 2024, three papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Longan (Undergrad), and coauthors! 🎉
-- \[**Publications**\]: Jun. 26, 2024, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Yongxiang! 🎉
-- \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
-- \[**Publications**\]: Apr. 20, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
-- \[**Publications**\]: Apr. 17, 2024, one paper was accepted by IJCAI 2024. Congrats to Kaiming (Master) and coauthors! 🎉
-- \[**Publications**\]: Jan. 3, 2024, one paper was accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). 🎉
-- \[**Publications**\]: Sep. 22, 2023, one paper was accepted by AAAI 2024. 🎉
-- \[**Publications**\]: Sep. 22, 2023, one paper was accepted by NeurIPS 2023. Congrats to Yang! 🎉
-- \[**Publications**\]: Sep. 12, 2023, one paper was accepted by Expert Systems With Applications (ESWA)! 🎉
-- \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! 🎉
-- \[**Services**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2024. 🎉
-- \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! Congrats to Xingfeng! 🎉
-- \[**Publications**\]: Apr. 26, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
-- \[**Publications**\]: Feb. 14, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 🎉
-- \[**Publications**\]: Dec. 24, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)! Congrats to Jiali and coauthors! 🎉
+- \[**Publications**\]: Jul. 16, 2024, two papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Yinghui, and coauthors! 🎉
+
 
 
 # 📝 Publications 
