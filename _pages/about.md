@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/dd4e0f3c-b2a8-4c26-962b-bc398f8be2e9)---
 permalink: /
 title: "" 
 author_profile: true
@@ -16,11 +16,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yuan Sun (孙元)** is a Ph.D. candidate at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). His current interests mainly focus on:
-- **Image Set Classification**: it constructs an image set consisting of multiple images, and then measures the distance between two sets.
-- **Cross-modal Retrieval**: it uses the information of one modal to retrieve the relevant content of another modal (such as text, image, audio, video, etc.).
-- **Multi-view Clustering/Classification**: it integrates the supplementary and consistent information of multiple feature extractors for clustering or classification tasks.
-- **AI4Science**: it utilizes Physics-Informed Neural Networks (PINNs) for solving forward and inverse PDE problems as well as their applications (such as nuclear reactor thermal hydraulics).
+**Xingfeng Li (李杏峰)**  is a Ph.D. candidate at the Nanjing University of Science and Technology, Nanjing, Jiangsu, advised by Profs. Quansen Sun and Zhenwen Ren. Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by Prof. Ivor W. Tsang and Associate prof. Yuangang Pan. His current interests mainly focus on:
+- **Mult-view/Multi-kernel Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
 
 # 🔥 News
 - \[**Publications**\]: Jul. 16, 2024, three papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Longan (Undergrad), and coauthors! 🎉
