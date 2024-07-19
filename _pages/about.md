@@ -42,12 +42,13 @@ redirect_from:
 
   
 # 2023
+- [11] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Jia Dai, Zhenwen Ren, [Distribution Consistency based Fast Anchor Imputation for Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3581783.3612483), **ACM MM 2023 (CCF-A类)**. 
 - [10] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, Yuan Sun, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002579), **Information Fusion (中科院一区)**.
 - [9] **Xingfeng Li**, Zhenwen Ren, Quansen Sun, Zhi Xu, [Auto-weighted tensor schatten p-norm for robust multi-view graph clustering](https://www.sciencedirect.com/science/article/abs/pii/S0031320322005635), **Pattern Recognition (中科院一区)**.
 - [8] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, [Enforced block diagonal graph learning for multikernel clustering](https://ieeexplore.ieee.org/abstract/document/10012408), **IEEE Transactions on Computational Social Systems (中科院二区)**.
 
 # 2022
-- [7] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://ieeexplore.ieee.org/abstract/document/9987521), **IEEE Transactions on Circuits and Systems for Video Technology (中科院一区)**.
+- [7] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, [Consensus cluster center guided latent multi-kernel clustering](https://ieeexplore.ieee.org/abstract/document/9987521), **IEEE Transactions on Circuits and Systems for Video Technology (中科院一区)**.
 - [6] Jiali You, Zhenwen Ren, Quansen Sun, Yuan Sun, **Xingfeng Li**, [Approximate shifted laplacian reconstruction for multiple kernel clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548307), **ACM MM 2022 (CCF-A类)**. 
 - [5] **Xingfeng Li**, Quansen Sun, Zhenwen Ren, Yinghui Sun, [Dynamic incomplete multi-view imputing and clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548245), **ACM MM 2022 (CCF-A类)**. 
 - [4] **Xingfeng Li**, Yinghui Sun, Zhenwen Ren, Quansen Sun, [RPCA-Induced Graph Tensor Learning for Incomplete Multi-view Inferring and Clustering](https://link.springer.com/chapter/10.1007/978-981-19-6142-7_7), **International Conference on Neural Computing for Advanced Applications (EI)**.
