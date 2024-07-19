@@ -21,14 +21,14 @@ redirect_from:
 
 # 🔥 News
 - \[**Publications**\]: Jul. 16, 2024, two papers were accepted by ACM Multimedia (ACM MM 2024)! Congrates to Honglin (Master), Yinghui, and coauthors! 🎉
-- \[**Publications**\]: Apr. 18, 2024, one paper was accepted by IJCAI 2024!🎉
-- \[**Publications**\]: Mar. 1, 2024, one paper was accepted by CVPR 2024! Congrats to Linhan and coauthors!🎉
-- \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)!🎉
-- \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion!🎉
-- \[**Publications**\]: Feb. 1, 2023, one paper was accepted by Pattern Recognition!🎉
-- \[**Publications**\]: Jan. 9, 2023, one paper was accepted by IEEE Transactions on Computational Social Systems (TCSS)!🎉
-- \[**Publications**\]: Dec. 24, 2022, two papers was accepted by ACM Multimedia (ACM MM 2022)! Congrats to Jiali and coauthors!🎉
-- \[**Publications**\]: Dec. 15, 2022, one papers was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)!🎉
+- \[**Publications**\]: Apr. 18, 2024, one paper was accepted by IJCAI 2024! 🎉
+- \[**Publications**\]: Mar. 1, 2024, one paper was accepted by CVPR 2024! Congrats to Linhan and coauthors! 🎉
+- \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! 🎉
+- \[**Publications**\]: Jul. 19, 2023, one paper was accepted by Information Fusion! 🎉
+- \[**Publications**\]: Feb. 1, 2023, one paper was accepted by Pattern Recognition! 🎉
+- \[**Publications**\]: Jan. 9, 2023, one paper was accepted by IEEE Transactions on Computational Social Systems (TCSS)! 🎉
+- \[**Publications**\]: Dec. 24, 2022, two papers was accepted by ACM Multimedia (ACM MM 2022)! Congrats to Jiali and coauthors! 🎉
+- \[**Publications**\]: Dec. 15, 2022, one papers was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)! 🎉
 
 
 # 📝 Publications 
