@@ -50,7 +50,7 @@ redirect_from:
 - [7] **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://ieeexplore.ieee.org/abstract/document/9987521), **IEEE Transactions on Circuits and Systems for Video Technology (中科院一区)**.
 - [6] Jiali You, Zhenwen Ren, Quansen Sun, Yuan Sun, **Xingfeng Li**, [Approximate shifted laplacian reconstruction for multiple kernel clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548307), **ACM MM 2022 (CCF-A类)**. 
 - [5] **Xingfeng Li**, Quansen Sun, Zhenwen Ren, Yinghui Sun, [Dynamic incomplete multi-view imputing and clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548245), **ACM MM 2022 (CCF-A类)**. 
-- [4] Xingfeng Li, Yinghui Sun, Zhenwen Ren, Quansen Sun, [RPCA-Induced Graph Tensor Learning for Incomplete Multi-view Inferring and Clustering](https://link.springer.com/chapter/10.1007/978-981-19-6142-7_7), **International Conference on Neural Computing for Advanced Applications (EI)**.
+- [4] **Xingfeng Li**, Yinghui Sun, Zhenwen Ren, Quansen Sun, [RPCA-Induced Graph Tensor Learning for Incomplete Multi-view Inferring and Clustering](https://link.springer.com/chapter/10.1007/978-981-19-6142-7_7), **International Conference on Neural Computing for Advanced Applications (EI)**.
 
 # Before 2021
 - [3] Zhenwen Ren, **Xingfeng Li**, Mithun Mukherjee, Yuqing Huang, Quansen Sun, Zhen Huang, Liwan Chen, [Robust multi-view graph clustering in latent energy-preserving embedding space](https://www.sciencedirect.com/science/article/abs/pii/S0950705120306183), **Information Sciences (中科院一区)**.
