@@ -18,6 +18,7 @@ redirect_from:
 
 **Xingfeng Li (李杏峰)**  is a Ph.D. candidate at the Nanjing University of Science and Technology, Nanjing, Jiangsu, advised by Profs. Quansen Sun and Zhenwen Ren. Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by Prof. Ivor W. Tsang and Associate prof. Yuangang Pan. His current interests mainly focus on:
 - **Mult-view/Multi-kernel Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
+- **Feature Extraction and Feature Selection**: it extracts or selects the important features of high-dimensional data for addressing the curse of dimensionality.
 
 # 🔥 News
 - \[**Publications**\]: Jul. 16, 2024, two papers were accepted by ACM Multimedia (ACM MM 2024)! Congrates to Honglin (Master), Yinghui, and coauthors! 🎉
@@ -39,12 +40,20 @@ redirect_from:
 
   
 # 2023
-- [8] Xingfeng Li, Yinghui Sun, Quansen Sun, Zhenwen Ren, **Yuan Sun**, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S1566253523002579), **Information Fusion (中科院一区)**.
+- [10] Xingfeng Li, Yinghui Sun, Quansen Sun, Zhenwen Ren, **Yuan Sun**, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002579), **Information Fusion (中科院一区)**.
+- [9] Xingfeng Li, Zhenwen Ren, Quansen Sun, Zhi Xu, [Auto-weighted tensor schatten p-norm for robust multi-view graph clustering](https://www.sciencedirect.com/science/article/abs/pii/S0031320322005635), **Pattern Recognition (中科院一区)**.
+- [8] Xingfeng Li, Yinghui Sun, Quansen Sun, Zhenwen Ren, [Enforced block diagonal graph learning for multikernel clustering](https://ieeexplore.ieee.org/abstract/document/10012408), **IEEE Transactions on Computational Social Systems (中科院二区)**.
 
 # 2022
-
+- [7] Xingfeng Li, Yinghui Sun, Quansen Sun, Zhenwen Ren, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://ieeexplore.ieee.org/abstract/document/9987521), **IEEE Transactions on Circuits and Systems for Video Technology (中科院一区)**.
+- [6] Jiali You, Zhenwen Ren, Quansen Sun, Yuan Sun, **Xingfeng Li**, [Approximate shifted laplacian reconstruction for multiple kernel clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548307), **ACM MM 2022 (CCF-A类)**. 
+- [5] **Xingfeng Li**, Quansen Sun, Zhenwen Ren, Yinghui Sun, [Dynamic incomplete multi-view imputing and clustering](https://dl.acm.org/doi/abs/10.1145/3503161.3548245), **ACM MM 2022 (CCF-A类)**. 
+- [4] Zhenwen Ren, **Xingfeng Li**, Mithun Mukherjee, Yuqing Huang, Quansen Sun, Zhen Huang, Liwan Chen, [RPCA-Induced Graph Tensor Learning for Incomplete Multi-view Inferring and Clustering](https://link.springer.com/chapter/10.1007/978-981-19-6142-7_7), **International Conference on Neural Computing for Advanced Applications (EI)**.
 
 # Before 2021
+- [3] Zhenwen Ren, **Xingfeng Li**, Mithun Mukherjee, Yuqing Huang, Quansen Sun, Zhen Huang, Liwan Chen, [Robust multi-view graph clustering in latent energy-preserving embedding space](https://www.sciencedirect.com/science/article/abs/pii/S0950705120306183), **Information Sciences (中科院一区)**.
+- [2] **Xingfeng Li**, Zhenwen Ren, Haoyun Lei, Yuqing Huang, Quansen Sun, Liwan Chen, [Multiple kernel clustering with pure graph learning scheme](https://www.sciencedirect.com/science/article/abs/pii/S0925231220316271), **Neurocomputing (中科院二区)**.
+- [1] Haoran Li, Zhenwen Ren, Mithun Mukherjee, Yuqing Huang, Quansen Sun, **Xingfeng Li**, Liwan Chen, [Robust energy preserving embedding for multi-view subspace clustering](https://www.sciencedirect.com/science/article/abs/pii/S0950705120306183), **Knowledge-Based Systems (中科院一区)**.
 
 
 
