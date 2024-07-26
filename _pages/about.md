@@ -80,7 +80,7 @@ redirect_from:
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence.
-    - IEEE Transactions on Computational Social Systems.
+    - IEEE Transactions on Artificial Intelligence
     - Neural Networks.
     - Information Fusion.
     - Neurocomputing.
