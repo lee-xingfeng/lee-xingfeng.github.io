@@ -21,7 +21,7 @@ redirect_from:
 - **Feature Extraction and Feature Selection**: it extracts or selects the important features of high-dimensional data for addressing the curse of dimensionality.
 
 # 🔥 News
-- \[**Publications**\]: Aug. 18, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)!
+- \[**Publications**\]: Aug. 18, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)!
 - \[**Publications**\]: Jul. 16, 2024, two papers were accepted by ACM Multimedia (ACM MM 2024)! Congrates to Honglin (Master), Yinghui, and coauthors! 🎉
 - \[**Publications**\]: Apr. 18, 2024, one paper was accepted by IJCAI 2024! 🎉
 - \[**Publications**\]: Mar. 1, 2024, one paper was accepted by CVPR 2024! Congrats to Linhan and coauthors! 🎉
