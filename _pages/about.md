@@ -77,8 +77,7 @@ redirect_from:
 
 # 🙋 Services 
 - Program Committee Member:
-    - ICLR 2025.
-    - AAAI 2025.
+    - AAAI 2025, ICLR 2025.
     - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, NeurIPS 2024.
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
