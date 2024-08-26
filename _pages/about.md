@@ -38,7 +38,7 @@ redirect_from:
 # 2024
 - [16] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning, **IEEE Transactions on Multimedia (中科院一区)**.
 - [15] Yinghui Sun, **Xingfeng Li#**, Sun Quansen, Min-Ling Zhang, Zhenwen Ren, Improved Weighted Tensor Schatten 𝑝-Norm for Fast Multi-view Graph Clustering, **ACM MM 2024 (CCF-A类)**. [Code avaliable](https://github.com/lee-xingfeng/IWTSN) 
-- [14] Honglin Yuan, Shiyun Lai, **Xingfeng Li**, Jian Dai, Yuan Sun, Zhenwen Ren, Robust Prototype Completion for Incomplete Multi-view Clustering, **ACM MM 2024 (CCF-A类)**. 
+- [14] Honglin Yuan, Shiyun Lai, **Xingfeng Li**, Jian Dai, Yuan Sun, Zhenwen Ren, [Robust Prototype Completion for Incomplete Multi-view Clustering](https://openreview.net/pdf?id=4BrIZo3Ave), **ACM MM 2024 (CCF-A类)**. [Code avaliable](https://github.com/hl-yuan/RPCIC)
 - [13] **Xingfeng Li**, Yuangang Pan, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren, Fast Unpaired Multi-view Clustering, **IJCAI 2024 (CCF-A类)**.
 - [12] Han Ling, Quansen Sun, Yinghui Sun, Xian Xu, **Xingfeng Li**, ADFactory: An Effective Framework for Generalizing Optical Flow with Nerf, **CVPR 2024 (CCF-A类)**. 
 
