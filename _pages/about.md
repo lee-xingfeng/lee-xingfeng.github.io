@@ -36,6 +36,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2024
+- [17] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Yinghui Sun,  Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S1566253523002579), **Information Fusion (中科院一区)**.
 - [16] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, [Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning], **IEEE Transactions on Multimedia (中科院一区)**.
 - [15] Yinghui Sun, **Xingfeng Li#**, Sun Quansen, Min-Ling Zhang, Zhenwen Ren, [Improved Weighted Tensor Schatten 𝑝-Norm for Fast Multi-view Graph Clustering](https://openreview.net/pdf?id=qQph6GscZZ), **ACM MM 2024 (CCF-A类)**. [Code avaliable](https://github.com/lee-xingfeng/IWTSN) 
 - [14] Honglin Yuan, Shiyun Lai, **Xingfeng Li**, Jian Dai, Yuan Sun, Zhenwen Ren, [Robust Prototype Completion for Incomplete Multi-view Clustering](https://openreview.net/pdf?id=4BrIZo3Ave), **ACM MM 2024 (CCF-A类)**. [Code avaliable](https://github.com/hl-yuan/RPCIC)
@@ -63,7 +64,7 @@ redirect_from:
 
 
 # 🎖 Honors and Awards
-- 南京理工大学优秀博士研究生培养，2024.07.
+- 南京理工大学优秀博士研究生培养对象，2024.07.
 - 南京理工大学计算机学院-院长奖章，2024.06.
 - 中国自动化学会科技进步奖二等奖，2023.11.
 - 研究生国家奖学金，教育部，2023.09.
