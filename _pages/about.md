@@ -37,7 +37,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2024
-- [17] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Yinghui Sun,  Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering](), **Information Fusion 2024 (中科院一区)**.
+- [17] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Yinghui Sun,  Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering], **Information Fusion 2024 (中科院一区)**.
 - [16] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, [Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning], **IEEE Transactions on Multimedia 2024 (中科院一区)**.
 - [15] Yinghui Sun, **Xingfeng Li#**, Sun Quansen, Min-Ling Zhang, Zhenwen Ren, [Improved Weighted Tensor Schatten 𝑝-Norm for Fast Multi-view Graph Clustering](https://openreview.net/pdf?id=qQph6GscZZ), **ACM MM 2024 (CCF-A类)**. [Code avaliable](https://github.com/lee-xingfeng/IWTSN) 
 - [14] Honglin Yuan, Shiyun Lai, **Xingfeng Li**, Jian Dai, Yuan Sun, Zhenwen Ren, [Robust Prototype Completion for Incomplete Multi-view Clustering](https://openreview.net/pdf?id=4BrIZo3Ave), **ACM MM 2024 (CCF-A类)**. [Code avaliable](https://github.com/hl-yuan/RPCIC)
