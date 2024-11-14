@@ -79,12 +79,13 @@ redirect_from:
 
 # 🙋 Services 
 - Program Committee Member:
-    - AAAI 2025, ICLR 2025.
+    - AAAI 2025, ICLR 2025, CVPR 2025.
     - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, NeurIPS 2024.
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
-    - IEEE Transactions on Pattern Analysis and Machine Intelligence.
-    - IEEE Transactions on Knowledge and Data Engineering
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
+    - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+    - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
     - Artificial Intelligence Review
     - Transactions on Computational Social Systems
     - Neural Networks.
