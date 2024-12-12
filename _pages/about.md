@@ -22,6 +22,8 @@ redirect_from:
 
 # 🔥 News
 - \[**Publications**\]: Nov. 5, 2024, one paper was accepted by Information Fusion! 🎉
+
+
 - \[**Publications**\]: Aug. 18, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
 - \[**Publications**\]: Jul. 16, 2024, two papers were accepted by ACM Multimedia (ACM MM 2024)! Congrates to Honglin (Master), Yinghui, and coauthors! 🎉
 - \[**Publications**\]: Apr. 18, 2024, one paper was accepted by IJCAI 2024! 🎉
@@ -37,6 +39,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2024
+- [18] Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Sun Quansen, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren [TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering], **AAAI 2025 (CCF-A类)**.
 - [17] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Yinghui Sun,  Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching], **Information Fusion 2024 (中科院一区)**.
 - [16] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, [Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning], **IEEE Transactions on Multimedia 2024 (中科院一区)**.
 - [15] Yinghui Sun, **Xingfeng Li#**, Sun Quansen, Min-Ling Zhang, Zhenwen Ren, [Improved Weighted Tensor Schatten 𝑝-Norm for Fast Multi-view Graph Clustering](https://openreview.net/pdf?id=qQph6GscZZ), **ACM MM 2024 (CCF-A类)**. [Code avaliable](https://github.com/lee-xingfeng/IWTSN) 
@@ -79,7 +82,7 @@ redirect_from:
 
 # 🙋 Services 
 - Program Committee Member:
-    - AAAI 2025, ICLR 2025, CVPR 2025.
+    - AAAI 2025, ICLR 2025, CVPR 2025, ICML2025.
     - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, NeurIPS 2024.
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
