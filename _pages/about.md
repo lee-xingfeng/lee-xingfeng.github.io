@@ -19,6 +19,9 @@ redirect_from:
 **Xingfeng Li (李杏峰)**  is a Ph.D. candidate at the Nanjing University of Science and Technology, Nanjing, Jiangsu, advised by Profs. Quansen Sun and Zhenwen Ren. Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by Prof. Ivor W. Tsang and Associate prof. Yuangang Pan. His current interests mainly focus on:
 - **Mult-view/Multi-kernel Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
 - **Feature Extraction and Feature Selection**: it extracts or selects the important features of high-dimensional data for addressing the curse of dimensionality.
+- **Hashing learning**: it transforms data from original space to Hamming space for fast searching.
+- **Deep learning**: it uses deep learning for clustering and classification tasks.
+
 
 # 🔥 News
 - \[**Publications**\]: Dec. 10, 2024, two paper were accepted by AAAI 2025! Congrats to Zhongwen (Master), and coauthors! 🎉
