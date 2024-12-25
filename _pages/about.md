@@ -41,7 +41,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
-- [19] Shilin Xu, Yuan Sun#, **Xingfeng Li#**, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, AAAI 2025 (CCF-A类). [Code avaliable](https://github.com/sstaree/NLC)
+- [19] Shilin Xu, Yuan Sun#, **Xingfeng Li**, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, AAAI 2025 (CCF-A类). [Code avaliable](https://github.com/sstaree/NLC)
 - [18] Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Quansen Sun, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren [TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering], **AAAI 2025 (CCF-A类)**. [Code avaliable](https://github.com/jankin-wang/TPCH)
 # 2024
 - [17] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Yinghui Sun,  Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching], **Information Fusion 2024 (中科院一区)**.
