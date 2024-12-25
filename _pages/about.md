@@ -41,7 +41,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2024
-- [18] Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Quansen Sun, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren [TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering], **AAAI 2025 (CCF-A类)**.
+- [18] Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Quansen Sun, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren [TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering], **AAAI 2025 (CCF-A类)**. [Code avaliable](https://github.com/jankin-wang/TPCH)
 - [17] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Yinghui Sun,  Quansen Sun, Zhenwen Ren, Ivor W. Tsang, [Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching], **Information Fusion 2024 (中科院一区)**.
 - [16] **Xingfeng Li**, Yuangang Pan, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren, [Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning](https://ieeexplore.ieee.org/document/10812848), **IEEE Transactions on Multimedia 2024 (中科院一区)**. [Code avaliable](https://github.com/lee-xingfeng/PBDAL)
 - [15] Yinghui Sun, **Xingfeng Li#**, Sun Quansen, Min-Ling Zhang, Zhenwen Ren, [Improved Weighted Tensor Schatten 𝑝-Norm for Fast Multi-view Graph Clustering](https://openreview.net/pdf?id=qQph6GscZZ), **ACM MM 2024 (CCF-A类)**. [Code avaliable](https://github.com/lee-xingfeng/IWTSN) 
