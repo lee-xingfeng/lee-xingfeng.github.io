@@ -93,6 +93,7 @@ redirect_from:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
     - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    - IEEE Transactions on Cybernetics (TCYB)
     - Transactions on Big Data (TBD)
     - Artificial Intelligence Review
     - Transactions on Computational Social Systems
