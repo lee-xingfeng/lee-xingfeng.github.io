@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Xingfeng Li (李杏峰)**  is a Ph.D. candidate at the Nanjing University of Science and Technology, Nanjing, Jiangsu, advised by Profs. [Quansen Sun](https://cs.njust.edu.cn/e4/0c/c1730a189452/page.htm) and [Zhenwen Ren](http://unix8.net/). Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by Prof. [Ivor W. Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and Senior Scientist. [Yuangang Pan](https://yuangang-pan.github.io/profile/). His current interests mainly focus on:
+**Xingfeng Li (李杏峰)**  is a Ph.D. candidate at the Nanjing University of Science and Technology, Nanjing, Jiangsu, advised by Profs. [Quansen Sun](https://cs.njust.edu.cn/e4/0c/c1730a189452/page.htm) and [Zhenwen Ren](http://unix8.net/). Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by IEEE Fellow. [Ivor W. Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and Senior Scientist. [Yuangang Pan](https://yuangang-pan.github.io/profile/). His current interests mainly focus on:
 - **Mult-view/Multi-kernel Clustering**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
 - **Feature Extraction and Feature Selection**: it extracts or selects the important features of high-dimensional data for addressing the curse of dimensionality.
 - **Hashing learning**: it transforms data from original space to Hamming space for fast searching.
