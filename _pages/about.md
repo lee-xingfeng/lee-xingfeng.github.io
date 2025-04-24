@@ -24,6 +24,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: Apr. 5, 2025, one paper was accepted by Neural Networks! 🎉
 - \[**Publications**\]: Dec. 10, 2024, two paper were accepted by AAAI 2025! Congrats to Zhongwen (Master), and coauthors! 🎉
 - \[**Publications**\]: Nov. 5, 2024, one paper were accepted by Information Fusion! 🎉
 - \[**Publications**\]: Aug. 18, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
@@ -41,6 +42,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
+- [20] **Xingfeng Li**, Yuan Sun, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for Image Set Classification, **Neural Networks 2025 (中科院二区)**. 
 - [19] Shilin Xu, Yuan Sun, **Xingfeng Li**, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng, Noisy Label Calibration for Multi-view Classification, AAAI 2025 (CCF-A类). [Code avaliable](https://github.com/sstaree/NLC)
 - [18] Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Quansen Sun, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren [TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering](https://arxiv.org/abs/2412.18847), **AAAI 2025 (CCF-A类)**. [Code avaliable](https://github.com/jankin-wang/TPCH)
 # 2024
