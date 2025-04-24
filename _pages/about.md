@@ -42,6 +42,8 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
+<!--Jiawei Peng, Zhongwen Wang, Yuan Sun, Jian Dai, Xingfeng Li, Zhenwen Ren, Energy-preserving Shifted Bipartite Graph Learning for Unpaired Large-scale Multi-view Clustering, IJCAI 2025 (CCF-A类).
+Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, Yuan Sun#, Zhenwen Ren#, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, IJCAI 2025 (CCF-A类).-->
 - [20] **Xingfeng Li**, Yuan Sun, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for Image Set Classification, **Neural Networks 2025 (中科院二区)**. 
 - [19] Shilin Xu, Yuan Sun, **Xingfeng Li**, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng, Noisy Label Calibration for Multi-view Classification, AAAI 2025 (CCF-A类). [Code avaliable](https://github.com/sstaree/NLC)
 - [18] Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Quansen Sun, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren [TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering](https://arxiv.org/abs/2412.18847), **AAAI 2025 (CCF-A类)**. [Code avaliable](https://github.com/jankin-wang/TPCH)
