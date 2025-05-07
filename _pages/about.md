@@ -103,6 +103,7 @@ redirect_from:
     - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
     - IEEE Transactions on Cybernetics (TCYB)
     - Transactions on Big Data (TBD)
+    - Pattern Recognition
     - Artificial Intelligence Review
     - Transactions on Computational Social Systems
     - Neural Networks.
