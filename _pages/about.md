@@ -98,6 +98,7 @@ redirect_from:
     - ACM MM 2023, PRCV 2023.
 - Journal Reviewer:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
+    - IEEE Transactions on Image Processing (TIP)
     - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - IEEE Transactions on Neural Networks and Learning（TNNLS）
     - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
