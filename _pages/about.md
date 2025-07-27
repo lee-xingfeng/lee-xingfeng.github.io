@@ -44,7 +44,7 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
-- [23] Scalable Unpaired Multi-View Clustering via Anchor-Driven High-Throughput Encoding, Junyu Chen, Jiawei Peng, Yuan Sun, Jian Dai, **Xingfeng Li**, Zhenwen Ren
+- [23] Junyu Chen, Jiawei Peng, Yuan Sun, Jian Dai, **Xingfeng Li**, Zhenwen Ren, Scalable Unpaired Multi-View Clustering via Anchor-Driven High-Throughput Encoding,  ACMMM 2025 (CCF-A类).
 - [22] Honglin Yuan, **Xingfeng Li**, Jian Dai, Xiaojian You, Yuan Sun#, Zhenwen Ren#, Deep Streaming View Clustering, ICML 2025 (CCF-A类).
 - [21] Deyin Zhuang, Jian Dai, **Xingfeng Li**, Xi Wu, Yuan Sun, Zhenwen Ren, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, IJCAI 2025 (CCF-A类).
 - [20] **Xingfeng Li**, Yuan Sun, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for Image Set Classification, **Neural Networks 2025 (中科院二区)**. 
