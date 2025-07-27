@@ -24,8 +24,9 @@ redirect_from:
 
 
 # 🔥 News
-- \[**Publications**\]: May. 1, 2025, one paper was accepted by ICML 2025! Congrats to Honglin, and coauthors!
-- \[**Publications**\]: Apr. 29, 2025, one paper was accepted by IJCAI 2025! Congrats to Deyin, and coauthors!
+- \[**Publications**\]: July. 6, 2025, one paper were accepted by ACM MM 2025! Congrats to Junyu and coauthors! 🎉
+- \[**Publications**\]: May. 1, 2025, one paper was accepted by ICML 2025! Congrats to Honglin, and coauthors! 🎉
+- \[**Publications**\]: Apr. 29, 2025, one paper was accepted by IJCAI 2025! Congrats to Deyin, and coauthors! 🎉
 - \[**Publications**\]: Apr. 5, 2025, one paper was accepted by Neural Networks! 🎉
 - \[**Publications**\]: Dec. 10, 2024, two paper were accepted by AAAI 2025! Congrats to Zhongwen (Master), and coauthors! 🎉
 - \[**Publications**\]: Nov. 5, 2024, one paper were accepted by Information Fusion! 🎉
