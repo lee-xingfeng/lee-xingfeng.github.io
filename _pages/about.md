@@ -124,20 +124,79 @@ redirect_from:
     - The Visual Computer.
 
 {% assign pubs = site.data.pubs %}
-{% assign count_ccfa = 0 %}
-{% assign count_cas1 = 0 %}
+
+{% assign ccfa = 0 %}
+{% assign ccfa_first = 0 %}
+{% assign ccfa_corr = 0 %}
+
+{% assign cas1 = 0 %}
+{% assign cas1_first = 0 %}
+{% assign cas1_corr = 0 %}
 
 {% for p in pubs %}
-  {% if p.venue contains "CCF-A" %}
-    {% assign count_ccfa = count_ccfa | plus: 1 %}
+
+  {% assign is_ccfa = p.venue contains "CCF-A" %}
+  {% assign is_cas1 = p.venue contains "中科院一区" %}
+
+  {%- comment -%}
+    ⬇ 判断一作
+    authors 第一个逗号前是否包含 Xingfeng Li
+  {%- endcomment -%}
+  {% assign is_first = false %}
+  {% assign first = p.authors | split: "," | first %}
+  {% if first contains "Xingfeng Li" %}
+    {% assign is_first = true %}
   {% endif %}
-  {% if p.venue contains "中科院一区" %}
-    {% assign count_cas1 = count_cas1 | plus: 1 %}
+
+  {%- comment -%}
+    ⬇ 判断通讯
+    authors 中包含 "Xingfeng Li#"
+  {%- endcomment -%}
+  {% assign is_corr = false %}
+  {% if p.authors contains "Xingfeng Li#" %}
+    {% assign is_corr = true %}
   {% endif %}
+
+  {%- comment -%}
+    ✅ CCF-A 统计
+  {%- endcomment -%}
+  {% if is_ccfa %}
+    {% assign ccfa = ccfa | plus: 1 %}
+    {% if is_first %}
+      {% assign ccfa_first = ccfa_first | plus: 1 %}
+    {% endif %}
+    {% if is_corr %}
+      {% assign ccfa_corr = ccfa_corr | plus: 1 %}
+    {% endif %}
+  {% endif %}
+
+  {%- comment -%}
+    ✅ 中科院一区统计
+  {%- endcomment -%}
+  {% if is_cas1 %}
+    {% assign cas1 = cas1 | plus: 1 %}
+    {% if is_first %}
+      {% assign cas1_first = cas1_first | plus: 1 %}
+    {% endif %}
+    {% if is_corr %}
+      {% assign cas1_corr = cas1_corr | plus: 1 %}
+    {% endif %}
+  {% endif %}
+
 {% endfor %}
 
 <!--
-  ✅ Private Stats
-  CCF-A papers: {{ count_ccfa }}
-  中科院一区 papers: {{ count_cas1 }}
+✅ Private Stats  (not visible on page)
+===================
+  CCF-A
+    ▷ total:              {{ ccfa }}
+    ▷ first-author:       {{ ccfa_first }}
+    ▷ corresponding:      {{ ccfa_corr }}
+
+  中科院一区
+    ▷ total:              {{ cas1 }}
+    ▷ first-author:       {{ cas1_first }}
+    ▷ corresponding:      {{ cas1_corr }}
+===================
 -->
+
