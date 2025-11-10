@@ -79,13 +79,6 @@ redirect_from:
 {% endfor %}
 {% endfor %}
 
-**Total (public view):** {{ pubs_sorted | size }}
-{% assign total_all = site.data.pubs | size %}
-{% if total_all > pubs_sorted.size %}
-  &nbsp;&nbsp;**Total (including private):** {{ total_all }}
-{% endif %}
-
-
 # 🎖 Honors and Awards
 - 浦芯精英奖学金，南京市浦口区工业和信息化局，2024.12.
 - 南京理工大学优秀博士研究生培养对象，2024.07.
