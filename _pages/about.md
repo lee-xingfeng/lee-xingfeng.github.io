@@ -46,6 +46,8 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
+- Yufeng Chen, Yuan Sun, Hao Pan, Xujian Zhao, Jian Dai, Zhenwen Ren, **Xingfeng Li#**, Revisiting Network Inertia: Dynamic Inertia Inhibition coupled Multidimensional Periodicity for Infrared and Visible Image Fusion, AAAI 2026 (CCF-A类). 
+- Taotao Guo, Honglin Yuan, Xujian Zhao, Yuan Sun, Dongliang Wang, Zhenwen Ren, **Xingfeng Li#**, Neural Collapse Priors Driven Trust Semi‑Supervised Multi‑View Classification, AAAI 2026 (CCF-A类).
 - [23] Junyu Chen, Jiawei Peng, Yuan Sun, Jian Dai, **Xingfeng Li#**, Zhenwen Ren, Scalable Unpaired Multi-View Clustering via Anchor-Driven High-Throughput Encoding,  ACMMM 2025 (CCF-A类).
 - [22] Honglin Yuan, **Xingfeng Li**, Jian Dai, Xiaojian You, Yuan Sun#, Zhenwen Ren#, Deep Streaming View Clustering, ICML 2025 (CCF-A类).
 - [21] Deyin Zhuang, Jian Dai, **Xingfeng Li**, Xi Wu, Yuan Sun, Zhenwen Ren, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, IJCAI 2025 (CCF-A类).
