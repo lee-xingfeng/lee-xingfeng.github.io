@@ -135,68 +135,59 @@ redirect_from:
 
 {% for p in pubs %}
 
-  {% assign is_ccfa = p.venue contains "CCF-A" %}
-  {% assign is_cas1 = p.venue contains "中科院一区" %}
+  {%- comment -%} 规范化作者字符串，去掉 Markdown 星号 {%- endcomment -%}
+  {% assign authors_plain = p.authors | replace: "*", "" %}
 
-  {%- comment -%}
-    ⬇ 判断一作
-    authors 第一个逗号前是否包含 Xingfeng Li
-  {%- endcomment -%}
+  {%- comment -%} 判断是否 CCF-A / 中科院一区（用真正的布尔量） {%- endcomment -%}
+  {% assign is_ccfa = false %}
+  {% if p.venue contains "CCF-A" %}
+    {% assign is_ccfa = true %}
+  {% endif %}
+
+  {% assign is_cas1 = false %}
+  {% if p.venue contains "中科院一区" %}
+    {% assign is_cas1 = true %}
+  {% endif %}
+
+  {%- comment -%} 第一作者：逗号前第一个名字是否包含 Xingfeng Li {%- endcomment -%}
+  {% assign first_raw = p.authors | split: "," | first | strip %}
+  {% assign first_plain = first_raw | replace: "*", "" %}
   {% assign is_first = false %}
-  {% assign first = p.authors | split: "," | first %}
-  {% if first contains "Xingfeng Li" %}
+  {% if first_plain contains "Xingfeng Li" %}
     {% assign is_first = true %}
   {% endif %}
 
-  {%- comment -%}
-    ⬇ 判断通讯
-    authors 中包含 "Xingfeng Li#"
-  {%- endcomment -%}
+  {%- comment -%} 通讯作者：作者串里是否含 "Xingfeng Li#"（去掉 ** 后判断） {%- endcomment -%}
   {% assign is_corr = false %}
-  {% if p.authors contains "Xingfeng Li#" %}
+  {% if authors_plain contains "Xingfeng Li#" %}
     {% assign is_corr = true %}
   {% endif %}
 
-  {%- comment -%}
-    ✅ CCF-A 统计
-  {%- endcomment -%}
+  {%- comment -%} 计数 {%- endcomment -%}
   {% if is_ccfa %}
     {% assign ccfa = ccfa | plus: 1 %}
-    {% if is_first %}
-      {% assign ccfa_first = ccfa_first | plus: 1 %}
-    {% endif %}
-    {% if is_corr %}
-      {% assign ccfa_corr = ccfa_corr | plus: 1 %}
-    {% endif %}
+    {% if is_first %}{% assign ccfa_first = ccfa_first | plus: 1 %}{% endif %}
+    {% if is_corr  %}{% assign ccfa_corr  = ccfa_corr  | plus: 1 %}{% endif %}
   {% endif %}
 
-  {%- comment -%}
-    ✅ 中科院一区统计
-  {%- endcomment -%}
   {% if is_cas1 %}
     {% assign cas1 = cas1 | plus: 1 %}
-    {% if is_first %}
-      {% assign cas1_first = cas1_first | plus: 1 %}
-    {% endif %}
-    {% if is_corr %}
-      {% assign cas1_corr = cas1_corr | plus: 1 %}
-    {% endif %}
+    {% if is_first %}{% assign cas1_first = cas1_first | plus: 1 %}{% endif %}
+    {% if is_corr  %}{% assign cas1_corr  = cas1_corr  | plus: 1 %}{% endif %}
   {% endif %}
 
 {% endfor %}
 
 <!--
-✅ Private Stats  (not visible on page)
-===================
-  CCF-A
-    ▷ total:              {{ ccfa }}
-    ▷ first-author:       {{ ccfa_first }}
-    ▷ corresponding:      {{ ccfa_corr }}
+✅ Private Stats (corrected)
+CCF-A
+  total:            {{ ccfa }}
+  first-author:     {{ ccfa_first }}
+  corresponding:    {{ ccfa_corr }}
 
-  中科院一区
-    ▷ total:              {{ cas1 }}
-    ▷ first-author:       {{ cas1_first }}
-    ▷ corresponding:      {{ cas1_corr }}
-===================
+中科院一区
+  total:            {{ cas1 }}
+  first-author:     {{ cas1_first }}
+  corresponding:    {{ cas1_corr }}
 -->
 
