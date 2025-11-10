@@ -1,1 +1,7 @@
+论文条目统一放进 _data/pubs.yml（含 public:true/false）
 
+about.md 用 Liquid 自动筛选 + 分年 + 逆序自动编号
+
+用 _config.yml 的 show_private 开关在 main（公开） 与 自己看的版本（全量） 间切换
+
+以后只需在 pubs.yml 里增删
