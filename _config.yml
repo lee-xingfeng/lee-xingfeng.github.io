@@ -161,3 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# 公开站点用 false；自己看的版本可置 true（见第 4 步本地预览做法）
+show_private: false
+
