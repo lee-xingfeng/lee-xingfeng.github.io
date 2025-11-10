@@ -123,4 +123,21 @@ redirect_from:
     - CAAI Transactions on Intelligence Technology.
     - The Visual Computer.
 
+{% assign pubs = site.data.pubs %}
+{% assign count_ccfa = 0 %}
+{% assign count_cas1 = 0 %}
 
+{% for p in pubs %}
+  {% if p.venue contains "CCF-A" %}
+    {% assign count_ccfa = count_ccfa | plus: 1 %}
+  {% endif %}
+  {% if p.venue contains "中科院一区" %}
+    {% assign count_cas1 = count_cas1 | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+<!--
+  ✅ Private Stats
+  CCF-A papers: {{ count_ccfa }}
+  中科院一区 papers: {{ count_cas1 }}
+-->
