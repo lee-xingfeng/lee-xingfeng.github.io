@@ -1,4 +1,4 @@
----
+<img width="478" height="482" alt="image" src="https://github.com/user-attachments/assets/7fcdf9b9-1b81-433a-a828-ef196976700c" />---
 permalink: /
 title: "" 
 author_profile: true
@@ -24,6 +24,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: Nov. 8, 2025, two papers were accepted by AAAI 2026! Congrats to Yufeng, Taotao, and coauthors! 
 - \[**Publications**\]: July. 6, 2025, one paper were accepted by ACM MM 2025! Congrats to Junyu and coauthors! 🎉
 - \[**Publications**\]: May. 1, 2025, one paper was accepted by ICML 2025! Congrats to Honglin, and coauthors! 🎉
 - \[**Publications**\]: Apr. 29, 2025, one paper was accepted by IJCAI 2025! Congrats to Deyin, and coauthors! 🎉
