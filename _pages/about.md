@@ -46,11 +46,11 @@ redirect_from:
 # 📝 Publications 
 (# denotes the corresponding author)
 # 2025
-- Yufeng Chen, Yuan Sun, Hao Pan, Xujian Zhao, Jian Dai, Zhenwen Ren, **Xingfeng Li#**, Revisiting Network Inertia: Dynamic Inertia Inhibition coupled Multidimensional Periodicity for Infrared and Visible Image Fusion, AAAI 2026 (CCF-A类). 
-- Taotao Guo, Honglin Yuan, Xujian Zhao, Yuan Sun, Dongliang Wang, Zhenwen Ren, **Xingfeng Li#**, Neural Collapse Priors Driven Trust Semi‑Supervised Multi‑View Classification, AAAI 2026 (CCF-A类).
-- [23] Junyu Chen, Jiawei Peng, Yuan Sun, Jian Dai, **Xingfeng Li#**, Zhenwen Ren, Scalable Unpaired Multi-View Clustering via Anchor-Driven High-Throughput Encoding,  ACMMM 2025 (CCF-A类).
-- [22] Honglin Yuan, **Xingfeng Li**, Jian Dai, Xiaojian You, Yuan Sun#, Zhenwen Ren#, Deep Streaming View Clustering, ICML 2025 (CCF-A类).
-- [21] Deyin Zhuang, Jian Dai, **Xingfeng Li**, Xi Wu, Yuan Sun, Zhenwen Ren, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, IJCAI 2025 (CCF-A类).
+- Yufeng Chen, Yuan Sun, Hao Pan, Xujian Zhao, Jian Dai, Zhenwen Ren, **Xingfeng Li#**, Revisiting Network Inertia: Dynamic Inertia Inhibition coupled Multidimensional Periodicity for Infrared and Visible Image Fusion, **AAAI 2026 (CCF-A类)**. 
+- Taotao Guo, Honglin Yuan, Xujian Zhao, Yuan Sun, Dongliang Wang, Zhenwen Ren, **Xingfeng Li#**, Neural Collapse Priors Driven Trust Semi‑Supervised Multi‑View Classification, **AAAI 2026 (CCF-A类)**.
+- [23] Junyu Chen, Jiawei Peng, Yuan Sun, Jian Dai, **Xingfeng Li#**, Zhenwen Ren, Scalable Unpaired Multi-View Clustering via Anchor-Driven High-Throughput Encoding, **ACMMM 2025 (CCF-A类)**.
+- [22] Honglin Yuan, **Xingfeng Li**, Jian Dai, Xiaojian You, Yuan Sun#, Zhenwen Ren#, Deep Streaming View Clustering, **ICML 2025 (CCF-A类)**.
+- [21] Deyin Zhuang, Jian Dai, **Xingfeng Li**, Xi Wu, Yuan Sun, Zhenwen Ren, Robust Graph Contrastive Learning for Incomplete Multi-view Clustering, **IJCAI 2025 (CCF-A类)**.
 - [20] **Xingfeng Li**, Yuan Sun, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for Image Set Classification, **Neural Networks 2025 (中科院二区)**. 
 - [19] Shilin Xu, Yuan Sun, **Xingfeng Li**, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng, Noisy Label Calibration for Multi-view Classification, AAAI 2025 (CCF-A类). [Code avaliable](https://github.com/sstaree/NLC)
 - [18] Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Quansen Sun, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren [TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering](https://arxiv.org/abs/2412.18847), **AAAI 2025 (CCF-A类)**. [Code avaliable](https://github.com/jankin-wang/TPCH)
