@@ -24,6 +24,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: Nov. 9, 2025, one paper was accepted by Neurocomputing 2026! Congrats to Xinyue and coauthors! 
 - \[**Publications**\]: Nov. 8, 2025, two papers were accepted by AAAI 2026! Congrats to Yufeng, Taotao, and coauthors! 
 - \[**Publications**\]: July. 6, 2025, one paper were accepted by ACM MM 2025! Congrats to Junyu and coauthors! 🎉
 - \[**Publications**\]: May. 1, 2025, one paper was accepted by ICML 2025! Congrats to Honglin, and coauthors! 🎉
