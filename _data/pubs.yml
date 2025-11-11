@@ -14,7 +14,7 @@
 
 - year: 2026
   public: true
-  authors: "Taotao Guo, Honglin Yuan, Xujian Zhao, Yuan Sun, Dongliang Wang, Zhenwen Ren, **Xingfeng Li**"
+  authors: "Taotao Guo, Honglin Yuan, Xujian Zhao, Yuan Sun, Dongliang Wang, Zhenwen Ren, **Xingfeng Li#**"
   title: "Neural Collapse Priors Driven Trust Semi-Supervised Multi-View Classification"
   venue: "AAAI 2026 (CCF-A类)"
   links: {}
