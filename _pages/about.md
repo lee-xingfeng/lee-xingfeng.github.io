@@ -102,11 +102,14 @@ redirect_from:
 - Journal Reviewer:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
     - IEEE Transactions on Image Processing (TIP)
+    - IEEE Transactions on Information Forensics and Security (TIFS)
     - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - IEEE Transactions on Neural Networks and Learning（TNNLS）
     - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
     - IEEE Transactions on Cybernetics (TCYB)
+    - IEEE Transactions on Multimedia (TMM)
     - Transactions on Big Data (TBD)
+    - Knowledge-Based Systems
     - Pattern Recognition
     - Artificial Intelligence Review
     - Transactions on Computational Social Systems
