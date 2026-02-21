@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- \[**Publications**\]: Feb. 21, 2026, one paper was accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)! 🎉
 - \[**Publications**\]: Nov. 9, 2025, one paper was accepted by Neurocomputing 2026! Congrats to Xinyue and coauthors! 🎉
 - \[**Publications**\]: Nov. 8, 2025, two papers were accepted by AAAI 2026! Congrats to Yufeng, Taotao, and coauthors! 🎉
 - \[**Publications**\]: July. 6, 2025, one paper were accepted by ACM MM 2025! Congrats to Junyu and coauthors! 🎉
