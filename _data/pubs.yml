@@ -1,6 +1,13 @@
 # ---------- 2026 ----------
 - year: 2026
   public: false
+  authors: "**Xingfeng Li**, Hao Pan, Honglin Yuan, Yuan Sun, Xujian Zhao, Jia-Qi Lin, Zhenwen Ren#"
+  title: "Anti-Degradation Lifelong Multi-View Clustering"
+  venue: "CVPR 2026 (CCF-A类)"
+  links: {}
+
+- year: 2026
+  public: false
   authors: "Xinyue Deng, Dongliang Wang, Xingfeng Li, Yuying Zhu, **Yanan Li#**, **Zhenwen Ren#**"
   title: "Multi-view Clustering with Tensor-Aligned Dynamic Anchor Graphs"
   venue: "Neurocomputing (中科院二区)"
