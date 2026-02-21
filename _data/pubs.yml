@@ -12,346 +12,346 @@
     doi:
     code:
 
-- year: 2026
-  public: false
-  authors: >-
-    Xinyue Deng, Dongliang Wang, Xingfeng Li, Yuying Zhu, **Yanan Li#**, **Zhenwen Ren#**
-  title: >-
-    Multi-view Clustering with Tensor-Aligned Dynamic Anchor Graphs
-  venue: "Neurocomputing (中科院二区)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code:
+# - year: 2026
+#   public: false
+#   authors: >-
+#     Xinyue Deng, Dongliang Wang, Xingfeng Li, Yuying Zhu, **Yanan Li#**, **Zhenwen Ren#**
+#   title: >-
+#     Multi-view Clustering with Tensor-Aligned Dynamic Anchor Graphs
+#   venue: "Neurocomputing (中科院二区)"
+#   links:
+#     pdf:
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2026
-  public: true
-  authors: >-
-    Taotao Guo, Honglin Yuan, Xujian Zhao, Yuan Sun, Dongliang Wang, Zhenwen Ren, **Xingfeng Li#**
-  title: >-
-    Neural Collapse Priors Driven Trust Semi-Supervised Multi-View Classification
-  venue: "AAAI 2026 (CCF-A类)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code:
+# - year: 2026
+#   public: true
+#   authors: >-
+#     Taotao Guo, Honglin Yuan, Xujian Zhao, Yuan Sun, Dongliang Wang, Zhenwen Ren, **Xingfeng Li#**
+#   title: >-
+#     Neural Collapse Priors Driven Trust Semi-Supervised Multi-View Classification
+#   venue: "AAAI 2026 (CCF-A类)"
+#   links:
+#     pdf:
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2026
-  public: true
-  authors: >-
-    Yufeng Chen, Yuan Sun, Hao Pan, Xujian Zhao, Jian Dai, Zhenwen Ren, **Xingfeng Li#**
-  title: >-
-    Revisiting Network Inertia: Dynamic Inertia Inhibition coupled Multidimensional Periodicity for Infrared and Visible Image Fusion
-  venue: "AAAI 2026 (CCF-A类)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code:
+# - year: 2026
+#   public: true
+#   authors: >-
+#     Yufeng Chen, Yuan Sun, Hao Pan, Xujian Zhao, Jian Dai, Zhenwen Ren, **Xingfeng Li#**
+#   title: >-
+#     Revisiting Network Inertia: Dynamic Inertia Inhibition coupled Multidimensional Periodicity for Infrared and Visible Image Fusion
+#   venue: "AAAI 2026 (CCF-A类)"
+#   links:
+#     pdf:
+#     arxiv:
+#     doi:
+#     code:
 
-# ---------- 2025 ----------
-- year: 2025
-  public: true
-  authors: >-
-    Junyu Chen, Jiawei Peng, Yuan Sun, Jian Dai, **Xingfeng Li#**, Zhenwen Ren
-  title: >-
-    Scalable Unpaired Multi-View Clustering via Anchor-Driven High-Throughput Encoding
-  venue: "ACMMM 2025 (CCF-A类)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code:
+# # ---------- 2025 ----------
+# - year: 2025
+#   public: true
+#   authors: >-
+#     Junyu Chen, Jiawei Peng, Yuan Sun, Jian Dai, **Xingfeng Li#**, Zhenwen Ren
+#   title: >-
+#     Scalable Unpaired Multi-View Clustering via Anchor-Driven High-Throughput Encoding
+#   venue: "ACMMM 2025 (CCF-A类)"
+#   links:
+#     pdf:
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2025
-  public: true
-  authors: >-
-    Honglin Yuan, **Xingfeng Li**, Jian Dai, Xiaojian You, Yuan Sun#, Zhenwen Ren#
-  title: >-
-    Deep Streaming View Clustering
-  venue: "ICML 2025 (CCF-A类)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code:
+# - year: 2025
+#   public: true
+#   authors: >-
+#     Honglin Yuan, **Xingfeng Li**, Jian Dai, Xiaojian You, Yuan Sun#, Zhenwen Ren#
+#   title: >-
+#     Deep Streaming View Clustering
+#   venue: "ICML 2025 (CCF-A类)"
+#   links:
+#     pdf:
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2025
-  public: true
-  authors: >-
-    Deyin Zhuang, Jian Dai, **Xingfeng Li**, Xi Wu, Yuan Sun, Zhenwen Ren
-  title: >-
-    Robust Graph Contrastive Learning for Incomplete Multi-view Clustering
-  venue: "IJCAI 2025 (CCF-A类)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code:
+# - year: 2025
+#   public: true
+#   authors: >-
+#     Deyin Zhuang, Jian Dai, **Xingfeng Li**, Xi Wu, Yuan Sun, Zhenwen Ren
+#   title: >-
+#     Robust Graph Contrastive Learning for Incomplete Multi-view Clustering
+#   venue: "IJCAI 2025 (CCF-A类)"
+#   links:
+#     pdf:
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2025
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yuan Sun, Xuedong Li, Zhenwen Ren
-  title: >-
-    Consistent and Specific Hashing for Image Set Classification
-  venue: "Neural Networks 2025 (中科院二区)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code:
+# - year: 2025
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yuan Sun, Xuedong Li, Zhenwen Ren
+#   title: >-
+#     Consistent and Specific Hashing for Image Set Classification
+#   venue: "Neural Networks 2025 (中科院二区)"
+#   links:
+#     pdf:
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2025
-  public: true
-  authors: >-
-    Shilin Xu, Yuan Sun, **Xingfeng Li**, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng
-  title: >-
-    Noisy Label Calibration for Multi-view Classification
-  venue: "AAAI 2025 (CCF-A类)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code: "https://github.com/sstaree/NLC"
+# - year: 2025
+#   public: true
+#   authors: >-
+#     Shilin Xu, Yuan Sun, **Xingfeng Li**, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng
+#   title: >-
+#     Noisy Label Calibration for Multi-view Classification
+#   venue: "AAAI 2025 (CCF-A类)"
+#   links:
+#     pdf:
+#     arxiv:
+#     doi:
+#     code: "https://github.com/sstaree/NLC"
 
-- year: 2025
-  public: true
-  authors: >-
-    Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Quansen Sun, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren
-  title: >-
-    TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering
-  venue: "AAAI 2025 (CCF-A类)"
-  links:
-    pdf: "https://arxiv.org/abs/2412.18847"
-    arxiv:
-    doi:
-    code: "https://github.com/jankin-wang/TPCH"
+# - year: 2025
+#   public: true
+#   authors: >-
+#     Zhongwen Wang, **Xingfeng Li#**, Yinghui Sun, Quansen Sun, Yuan Sun, Han Ling, Jian Dai, Zhenwen Ren
+#   title: >-
+#     TPCH: Tensor-interacted Projection and Cooperative Hashing for Multi-view Clustering
+#   venue: "AAAI 2025 (CCF-A类)"
+#   links:
+#     pdf: "https://arxiv.org/abs/2412.18847"
+#     arxiv:
+#     doi:
+#     code: "https://github.com/jankin-wang/TPCH"
 
-# ---------- 2024 ----------
-- year: 2024
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yuangang Pan, Yuan Sun, Yinghui Sun, Quansen Sun, Zhenwen Ren, Ivor W. Tsang
-  title: >-
-    Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching
-  venue: "Information Fusion 2024 (中科院一区)"
-  links:
-    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S1566253524005645"
-    arxiv:
-    doi:
-    code:
+# # ---------- 2024 ----------
+# - year: 2024
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yuangang Pan, Yuan Sun, Yinghui Sun, Quansen Sun, Zhenwen Ren, Ivor W. Tsang
+#   title: >-
+#     Scalable Unpaired Multi-view Clustering with Bipartite Graph Matching
+#   venue: "Information Fusion 2024 (中科院一区)"
+#   links:
+#     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S1566253524005645"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2024
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yuangang Pan, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren
-  title: >-
-    Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning
-  venue: "IEEE Transactions on Multimedia 2024 (中科院一区)"
-  links:
-    pdf: "https://ieeexplore.ieee.org/document/10812848"
-    arxiv:
-    doi:
-    code: "https://github.com/lee-xingfeng/PBDAL"
+# - year: 2024
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yuangang Pan, Yuan Sun, Quansen Sun, Yinghui Sun, Ivor W. Tsang, Zhenwen Ren
+#   title: >-
+#     Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning
+#   venue: "IEEE Transactions on Multimedia 2024 (中科院一区)"
+#   links:
+#     pdf: "https://ieeexplore.ieee.org/document/10812848"
+#     arxiv:
+#     doi:
+#     code: "https://github.com/lee-xingfeng/PBDAL"
 
-- year: 2024
-  public: true
-  authors: >-
-    Yinghui Sun, **Xingfeng Li#**, Sun Quansen, Min-Ling Zhang, Zhenwen Ren
-  title: >-
-    Improved Weighted Tensor Schatten p-Norm for Fast Multi-view Graph Clustering
-  venue: "ACM MM 2024 (CCF-A类)"
-  links:
-    pdf: "https://openreview.net/pdf?id=qQph6GscZZ"
-    arxiv:
-    doi:
-    code: "https://github.com/lee-xingfeng/IWTSN"
+# - year: 2024
+#   public: true
+#   authors: >-
+#     Yinghui Sun, **Xingfeng Li#**, Sun Quansen, Min-Ling Zhang, Zhenwen Ren
+#   title: >-
+#     Improved Weighted Tensor Schatten p-Norm for Fast Multi-view Graph Clustering
+#   venue: "ACM MM 2024 (CCF-A类)"
+#   links:
+#     pdf: "https://openreview.net/pdf?id=qQph6GscZZ"
+#     arxiv:
+#     doi:
+#     code: "https://github.com/lee-xingfeng/IWTSN"
 
-- year: 2024
-  public: true
-  authors: >-
-    Honglin Yuan, Shiyun Lai, **Xingfeng Li**, Jian Dai, Yuan Sun, Zhenwen Ren
-  title: >-
-    Robust Prototype Completion for Incomplete Multi-view Clustering
-  venue: "ACM MM 2024 (CCF-A类)"
-  links:
-    pdf: "https://openreview.net/pdf?id=4BrIZo3Ave"
-    arxiv:
-    doi:
-    code: "https://github.com/hl-yuan/RPCIC"
+# - year: 2024
+#   public: true
+#   authors: >-
+#     Honglin Yuan, Shiyun Lai, **Xingfeng Li**, Jian Dai, Yuan Sun, Zhenwen Ren
+#   title: >-
+#     Robust Prototype Completion for Incomplete Multi-view Clustering
+#   venue: "ACM MM 2024 (CCF-A类)"
+#   links:
+#     pdf: "https://openreview.net/pdf?id=4BrIZo3Ave"
+#     arxiv:
+#     doi:
+#     code: "https://github.com/hl-yuan/RPCIC"
 
-- year: 2024
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yuangang Pan, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren
-  title: >-
-    Fast Unpaired Multi-view Clustering
-  venue: "IJCAI 2024 (CCF-A类)"
-  links:
-    pdf: "https://www.ijcai.org/proceedings/2024/0496.pdf"
-    arxiv:
-    doi:
-    code: "https://github.com/lee-xingfeng/FUMC/tree/main/IJCAI24code-FUMC"
+# - year: 2024
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yuangang Pan, Yinghui Sun, Quansen Sun, Ivor W. Tsang, Zhenwen Ren
+#   title: >-
+#     Fast Unpaired Multi-view Clustering
+#   venue: "IJCAI 2024 (CCF-A类)"
+#   links:
+#     pdf: "https://www.ijcai.org/proceedings/2024/0496.pdf"
+#     arxiv:
+#     doi:
+#     code: "https://github.com/lee-xingfeng/FUMC/tree/main/IJCAI24code-FUMC"
 
-- year: 2024
-  public: true
-  authors: >-
-    Han Ling, Quansen Sun, Yinghui Sun, Xian Xu, **Xingfeng Li**
-  title: >-
-    ADFactory: An Effective Framework for Generalizing Optical Flow with NeRF
-  venue: "CVPR 2024 (CCF-A类)"
-  links:
-    pdf: "https://openaccess.thecvf.com/content/CVPR2024/papers/Ling_ADFactory_An_Effective_Framework_for_Generalizing_Optical_Flow_with_NeRF_CVPR_2024_paper.pdf"
-    arxiv:
-    doi:
-    code:
+# - year: 2024
+#   public: true
+#   authors: >-
+#     Han Ling, Quansen Sun, Yinghui Sun, Xian Xu, **Xingfeng Li**
+#   title: >-
+#     ADFactory: An Effective Framework for Generalizing Optical Flow with NeRF
+#   venue: "CVPR 2024 (CCF-A类)"
+#   links:
+#     pdf: "https://openaccess.thecvf.com/content/CVPR2024/papers/Ling_ADFactory_An_Effective_Framework_for_Generalizing_Optical_Flow_with_NeRF_CVPR_2024_paper.pdf"
+#     arxiv:
+#     doi:
+#     code:
 
-# ---------- 2023 ----------
-- year: 2023
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yinghui Sun, Quansen Sun, Jia Dai, Zhenwen Ren
-  title: >-
-    Distribution Consistency based Fast Anchor Imputation for Incomplete Multi-view Clustering
-  venue: "ACM MM 2023 (CCF-A类)"
-  links:
-    pdf: "https://dl.acm.org/doi/abs/10.1145/3581783.3612483"
-    arxiv:
-    doi:
-    code:
+# # ---------- 2023 ----------
+# - year: 2023
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yinghui Sun, Quansen Sun, Jia Dai, Zhenwen Ren
+#   title: >-
+#     Distribution Consistency based Fast Anchor Imputation for Incomplete Multi-view Clustering
+#   venue: "ACM MM 2023 (CCF-A类)"
+#   links:
+#     pdf: "https://dl.acm.org/doi/abs/10.1145/3581783.3612483"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2023
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, Yuan Sun
-  title: >-
-    Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering
-  venue: "Information Fusion 2023 (中科院一区)"
-  links:
-    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S1566253523002579"
-    arxiv:
-    doi:
-    code:
+# - year: 2023
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren, Yuan Sun
+#   title: >-
+#     Cross-view Graph Matching Guided Anchor Alignment for Incomplete Multi-view Clustering
+#   venue: "Information Fusion 2023 (中科院一区)"
+#   links:
+#     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S1566253523002579"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2023
-  public: true
-  authors: >-
-    **Xingfeng Li**, Zhenwen Ren, Quansen Sun, Zhi Xu
-  title: >-
-    Auto-weighted tensor schatten p-norm for robust multi-view graph clustering
-  venue: "Pattern Recognition 2023 (中科院一区)"
-  links:
-    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0031320322005635"
-    arxiv:
-    doi:
-    code:
+# - year: 2023
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Zhenwen Ren, Quansen Sun, Zhi Xu
+#   title: >-
+#     Auto-weighted tensor schatten p-norm for robust multi-view graph clustering
+#   venue: "Pattern Recognition 2023 (中科院一区)"
+#   links:
+#     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0031320322005635"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2023
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren
-  title: >-
-    Enforced block diagonal graph learning for multikernel clustering
-  venue: "IEEE Transactions on Computational Social Systems 2023 (中科院二区)"
-  links:
-    pdf: "https://ieeexplore.ieee.org/abstract/document/10012408"
-    arxiv:
-    doi:
-    code:
+# - year: 2023
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren
+#   title: >-
+#     Enforced block diagonal graph learning for multikernel clustering
+#   venue: "IEEE Transactions on Computational Social Systems 2023 (中科院二区)"
+#   links:
+#     pdf: "https://ieeexplore.ieee.org/abstract/document/10012408"
+#     arxiv:
+#     doi:
+#     code:
 
-# ---------- 2022 ----------
-- year: 2022
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren
-  title: >-
-    Consensus cluster center guided latent multi-kernel clustering
-  venue: "IEEE Transactions on Circuits and Systems for Video Technology (中科院一区)"
-  links:
-    pdf: "https://ieeexplore.ieee.org/abstract/document/9987521"
-    arxiv:
-    doi:
-    code:
+# # ---------- 2022 ----------
+# - year: 2022
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yinghui Sun, Quansen Sun, Zhenwen Ren
+#   title: >-
+#     Consensus cluster center guided latent multi-kernel clustering
+#   venue: "IEEE Transactions on Circuits and Systems for Video Technology (中科院一区)"
+#   links:
+#     pdf: "https://ieeexplore.ieee.org/abstract/document/9987521"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2022
-  public: true
-  authors: >-
-    Jiali You, Zhenwen Ren, Quansen Sun, Yuan Sun, **Xingfeng Li**
-  title: >-
-    Approximate shifted laplacian reconstruction for multiple kernel clustering
-  venue: "ACM MM 2022 (CCF-A类)"
-  links:
-    pdf: "https://dl.acm.org/doi/abs/10.1145/3503161.3548307"
-    arxiv:
-    doi:
-    code:
+# - year: 2022
+#   public: true
+#   authors: >-
+#     Jiali You, Zhenwen Ren, Quansen Sun, Yuan Sun, **Xingfeng Li**
+#   title: >-
+#     Approximate shifted laplacian reconstruction for multiple kernel clustering
+#   venue: "ACM MM 2022 (CCF-A类)"
+#   links:
+#     pdf: "https://dl.acm.org/doi/abs/10.1145/3503161.3548307"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2022
-  public: true
-  authors: >-
-    **Xingfeng Li**, Quansen Sun, Zhenwen Ren, Yinghui Sun
-  title: >-
-    Dynamic incomplete multi-view imputing and clustering
-  venue: "ACM MM 2022 (CCF-A类)"
-  links:
-    pdf: "https://dl.acm.org/doi/abs/10.1145/3503161.3548245"
-    arxiv:
-    doi:
-    code:
+# - year: 2022
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Quansen Sun, Zhenwen Ren, Yinghui Sun
+#   title: >-
+#     Dynamic incomplete multi-view imputing and clustering
+#   venue: "ACM MM 2022 (CCF-A类)"
+#   links:
+#     pdf: "https://dl.acm.org/doi/abs/10.1145/3503161.3548245"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2022
-  public: true
-  authors: >-
-    **Xingfeng Li**, Yinghui Sun, Zhenwen Ren, Quansen Sun
-  title: >-
-    RPCA-Induced Graph Tensor Learning for Incomplete Multi-view
-    Inferring and Clustering
-  venue: "International Conference on Neural Computing for Advanced Applications (EI)"
-  links:
-    pdf: "https://link.springer.com/chapter/10.1007/978-981-19-6142-7_7"
-    arxiv:
-    doi:
-    code:
+# - year: 2022
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Yinghui Sun, Zhenwen Ren, Quansen Sun
+#   title: >-
+#     RPCA-Induced Graph Tensor Learning for Incomplete Multi-view
+#     Inferring and Clustering
+#   venue: "International Conference on Neural Computing for Advanced Applications (EI)"
+#   links:
+#     pdf: "https://link.springer.com/chapter/10.1007/978-981-19-6142-7_7"
+#     arxiv:
+#     doi:
+#     code:
 
-# ---------- Before 2021 ----------
-- year: 2020
-  public: true
-  authors: >-
-    Zhenwen Ren, **Xingfeng Li**, Mithun Mukherjee, Yuqing Huang, Quansen Sun, Zhen Huang, Liwan Chen
-  title: >-
-    Robust multi-view graph clustering in latent energy-preserving embedding space
-  venue: "Information Sciences (中科院一区)"
-  links:
-    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0950705120306183"
-    arxiv:
-    doi:
-    code:
+# # ---------- Before 2021 ----------
+# - year: 2020
+#   public: true
+#   authors: >-
+#     Zhenwen Ren, **Xingfeng Li**, Mithun Mukherjee, Yuqing Huang, Quansen Sun, Zhen Huang, Liwan Chen
+#   title: >-
+#     Robust multi-view graph clustering in latent energy-preserving embedding space
+#   venue: "Information Sciences (中科院一区)"
+#   links:
+#     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0950705120306183"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2020
-  public: true
-  authors: >-
-    **Xingfeng Li**, Zhenwen Ren, Haoyun Lei, Yuqing Huang, Quansen Sun, Liwan Chen
-  title: >-
-    Multiple kernel clustering with pure graph learning scheme
-  venue: "Neurocomputing (中科院二区)"
-  links:
-    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0925231220316271"
-    arxiv:
-    doi:
-    code:
+# - year: 2020
+#   public: true
+#   authors: >-
+#     **Xingfeng Li**, Zhenwen Ren, Haoyun Lei, Yuqing Huang, Quansen Sun, Liwan Chen
+#   title: >-
+#     Multiple kernel clustering with pure graph learning scheme
+#   venue: "Neurocomputing (中科院二区)"
+#   links:
+#     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0925231220316271"
+#     arxiv:
+#     doi:
+#     code:
 
-- year: 2020
-  public: true
-  authors: >-
-    Haoran Li, Zhenwen Ren, Mithun Mukherjee, Yuqing Huang, Quansen Sun, **Xingfeng Li**, Liwan Chen
-  title: >-
-    Robust energy preserving embedding for multi-view subspace clustering
-  venue: "Knowledge-Based Systems (中科院一区)"
-  links:
-    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0950705120306183"
-    arxiv:
-    doi:
-    code:
+# - year: 2020
+#   public: true
+#   authors: >-
+#     Haoran Li, Zhenwen Ren, Mithun Mukherjee, Yuqing Huang, Quansen Sun, **Xingfeng Li**, Liwan Chen
+#   title: >-
+#     Robust energy preserving embedding for multi-view subspace clustering
+#   venue: "Knowledge-Based Systems (中科院一区)"
+#   links:
+#     pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0950705120306183"
+#     arxiv:
+#     doi:
+#     code:
