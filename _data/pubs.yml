@@ -20,7 +20,7 @@
   venue: "AAAI 2026 (CCF-A类)"
   links: {}
 
-  - year: 2026
+- year: 2026
   public: true
   authors: "Yufeng Chen, Yuan Sun, Hao Pan, Xujian Zhao, Jian Dai, Zhenwen Ren, **Xingfeng Li#**"
   title: "Revisiting Network Inertia: Dynamic Inertia Inhibition coupled Multidimensional Periodicity for Infrared and Visible Image Fusion"
