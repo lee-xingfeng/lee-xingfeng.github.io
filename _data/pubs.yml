@@ -2,6 +2,45 @@
 - year: 2026
   public: true
   authors: >-
+    Shen Ouyang, Honglin Yuan, Dongliang Wang, Yuan Sun, Zhenwen Ren, **Xingfeng Li#**
+  title: >-
+    CLIP-Driven Lifelong Multi-view Clustering
+  venue: "Pattern Recognition 2026"
+  links:
+    pdf:
+    arxiv:
+    doi:
+    code:
+
+- year: 2026
+  public: true
+  authors: >-
+    Hao Pan, **Xingfeng Li#**, Yanan Li, Yufeng Chen, Honglin Yuan, Zhenwen Ren
+  title: >-
+    Pixel Intensity Prior-Aware Balanced Multi-Modal Image Fusion
+  venue: "Pattern Recognition 2026"
+  links:
+    pdf:
+    arxiv:
+    doi:
+    code:
+
+- year: 2026
+  public: true
+  authors: >-
+    **Xingfeng Li**, Jiawei Peng, Zhongwen Wang, Yuan Sun, Yuying Zhu, Fei Zhou, Zhenwen Ren
+  title: >-
+    Energy-Preserving Shifted Bipartite Graph Learning for Unpaired Large-Scale Multi-View Clustering
+  venue: "Neural Networks 2026"
+  links:
+    pdf:
+    arxiv:
+    doi:
+    code:
+
+- year: 2026
+  public: true
+  authors: >-
     **Xingfeng Li**, Hao Pan, Honglin Yuan, Yuan Sun, Xujian Zhao, Jia-Qi Lin, Zhenwen Ren
   title: >-
     Anti-Degradation Lifelong Multi-View Clustering
