@@ -52,19 +52,6 @@
     code:
 
 - year: 2026
-  public: true
-  authors: >-
-    **Xingfeng Li**, Hao Pan, Honglin Yuan, Yuan Sun, Xujian Zhao, Jia-Qi Lin, Zhenwen Ren
-  title: >-
-    Anti-Degradation Lifelong Multi-View Clustering
-  venue: "CVPR 2026 (CCF-A类)"
-  links:
-    pdf:
-    arxiv:
-    doi:
-    code:
-
-- year: 2026
   public: false
   authors: >-
     Xinyue Deng, Dongliang Wang, Xingfeng Li, Yuying Zhu, **Yanan Li#**, **Zhenwen Ren#**
