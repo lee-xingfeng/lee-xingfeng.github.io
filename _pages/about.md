@@ -68,7 +68,7 @@ show_private=true : show all
     {% assign pubs_visible = all | where: "public", true %}
   {% endif %}
 
-  {% assign pubs_sorted = pubs_visible | sort: "year" %}
+  {% assign pubs_sorted = pubs_visible | sort: "year" | reverse %}
   {% assign N = pubs_sorted | size %}
   {% assign groups = pubs_sorted | group_by: "year" | sort: "name" %}
 
