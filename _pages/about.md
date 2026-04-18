@@ -24,6 +24,9 @@ His current interests mainly focus on:
 - **Deep learning**: it uses deep learning for clustering and classification tasks.
 
 # 🔥 News
+- \[**Publications**\]: Apr. 16, 2026, one paper was accepted by Neural Networks! 🎉
+- \[**Publications**\]: Mar. 20, 2026, one paper was accepted by Pattern Recognition!Congrats to Shen and coauthors! 🎉
+- \[**Publications**\]: Mar. 12, 2026, one paper was accepted by Pattern Recognition!Congrats to Hao and coauthors! 🎉
 - \[**Publications**\]: Feb. 21, 2026, one paper was accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)! 🎉
 - \[**Publications**\]: Nov. 9, 2025, one paper was accepted by Neurocomputing 2026! Congrats to Xinyue and coauthors! 🎉
 - \[**Publications**\]: Nov. 8, 2025, two papers were accepted by AAAI 2026! Congrats to Yufeng, Taotao, and coauthors! 🎉
