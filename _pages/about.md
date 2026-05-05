@@ -24,6 +24,7 @@ His current interests mainly focus on:
 - **Deep learning**: it uses deep learning for clustering and classification tasks.
 
 # 🔥 News
+- \[**Publications**\]: May. 1, 2026, one paper was accepted by The International Conference on Machine Learning 2026! Congrats to Hao and coauthors🎉
 - \[**Publications**\]: Apr. 16, 2026, one paper was accepted by Neural Networks! 🎉
 - \[**Publications**\]: Mar. 20, 2026, one paper was accepted by Pattern Recognition! Congrats to Shen and coauthors! 🎉
 - \[**Publications**\]: Mar. 12, 2026, one paper was accepted by Pattern Recognition! Congrats to Hao and coauthors! 🎉
