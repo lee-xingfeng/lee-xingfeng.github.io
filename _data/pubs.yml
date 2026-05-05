@@ -2,6 +2,19 @@
 - year: 2026
   public: true
   authors: >-
+    Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, **Xingfeng Li**
+  title: >-
+    Difference-Aware Decision Learning for Multimodal Image Fusion
+  venue: "ICML 2026 (CCF-A类)"
+  links:
+    pdf:
+    arxiv:
+    doi:
+    code:
+    
+- year: 2026
+  public: true
+  authors: >-
     **Xingfeng Li**, Hao Pan, Honglin Yuan, Yuan Sun, Xujian Zhao, Jia-Qi Lin, Zhenwen Ren
   title: >-
     Anti-Degradation Lifelong Multi-View Clustering
