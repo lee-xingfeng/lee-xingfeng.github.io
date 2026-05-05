@@ -2,7 +2,7 @@
 - year: 2026
   public: true
   authors: >-
-    Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, **Xingfeng Li**
+    Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, **Xingfeng Li#**
   title: >-
     Difference-Aware Decision Learning for Multimodal Image Fusion
   venue: "ICML 2026 (CCF-A类)"
