@@ -16,7 +16,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-**Xingfeng Li (李杏峰)** is a Ph.D. candidate at the Nanjing University of Science and Technology, Nanjing, Jiangsu, advised by Profs. [Quansen Sun](https://cs.njust.edu.cn/e4/0c/c1730a189452/page.htm) and [Zhenwen Ren](http://unix8.net/). Currently, I am a visiting student in A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by IEEE Fellow [Ivor W. Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and Senior Scientist [Yuangang Pan](https://yuangang-pan.github.io/profile/).
+**Xingfeng Li (李杏峰)** is an Associate Professor at the Southwest University of Science and Technology, Mianyang, Sichuan, where he works with Prof. Zhenwen Ren. He received his Ph.D. degree from Nanjing University of Science and Technology, supervised by Prof. [Quansen Sun](https://cs.njust.edu.cn/e4/0c/c1730a189452/page.htm) , and his Master’s degree under the supervision of Prof. [Zhenwen Ren](http://unix8.net/). He is currently a visiting scholar at A*STAR Centre for Frontier AI Research (CFAR), Singapore, supervised by IEEE Fellow [Ivor W. Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang) and Senior Scientist Yuangang Pan [Yuangang Pan](https://yuangang-pan.github.io/profile/).
 
 His current interests mainly focus on:
 - **Multi-modal learning**: it integrates the supplementary and consistent information of multiple feature extractors for clustering tasks.
