@@ -166,13 +166,17 @@ CCF-A
 - 博士一等学业奖学金，2021.09-2024.06.
 
 # 🙋 Services
-- Program Committee Member:
-  - AAAI 2026, ICLR 2026, CVPR 2026
-  - AAAI 2025, ICLR 2025, CVPR 2025, ICML 2025, ICCV 2025, ACM MM 2025, NeurIPS 2025
-  - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, NeurIPS 2024
-  - ACM MM 2023, PRCV 2023
+- Conferences:
+  - Area Chiar:
+    - IJCNN
+  - Reviewer:  
+    - AAAI 2026, ICLR 2026, CVPR 2026
+    - AAAI 2025, ICLR 2025, CVPR 2025, ICML 2025, ICCV 2025, ACM MM 2025, NeurIPS 2025
+    - AAAI 2024, CVPR 2024, IJCAI 2024, ACM MM 2024, ICML 2024, NeurIPS 2024
+    - ACM MM 2023, PRCV 2023
 - Journal Reviewer:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
+  - International Journal of Computer Vision (IJCV)
   - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Information Forensics and Security (TIFS)
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
