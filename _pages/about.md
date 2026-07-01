@@ -24,9 +24,9 @@ His current interests mainly focus on:
 - **Deep learning**: it uses deep learning for clustering and classification tasks.
 
 # 🔥 News
-- \[**Service**\]: I have been invited to be a Area Chair for the IJCNN 2027.🎉
-- \[**Publications**\]: Jun. 26, 2026, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)! Congrats to Honglin and coauthors!🎉
-- \[**Publications**\]: May. 1, 2026, one paper was accepted by The International Conference on Machine Learning 2026! Congrats to Hao and coauthors!🎉
+- \[**Service**\]: I have been invited to be a Area Chair for the IJCNN 2027! 🎉
+- \[**Publications**\]: Jun. 26, 2026, one paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)! Congrats to Honglin and coauthors! 🎉
+- \[**Publications**\]: May. 1, 2026, one paper was accepted by The International Conference on Machine Learning 2026! Congrats to Hao and coauthors! 🎉
 - \[**Publications**\]: Apr. 16, 2026, one paper was accepted by Neural Networks! 🎉
 - \[**Publications**\]: Mar. 20, 2026, one paper was accepted by Pattern Recognition! Congrats to Shen and coauthors! 🎉
 - \[**Publications**\]: Mar. 12, 2026, one paper was accepted by Pattern Recognition! Congrats to Hao and coauthors! 🎉
