@@ -2,6 +2,19 @@
 - year: 2026
   public: true
   authors: >-
+    Honglin Yuan, Yuan Sun, **Xingfeng Li**, Xi Wu, Xiaojian You, Zhenwen Ren
+  title: >-
+    Adaptive Hardness-Driven Dictionary Distillation for Incomplete Streaming View Clustering
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (CCF-A类)"
+  links:
+    pdf:
+    arxiv:
+    doi:
+    code:
+    
+- year: 2026
+  public: true
+  authors: >-
     Hao Pan, Jian Dai, Yuan Sun, Zhenwen Ren, **Xingfeng Li#**
   title: >-
     Difference-Aware Decision Learning for Multimodal Image Fusion
